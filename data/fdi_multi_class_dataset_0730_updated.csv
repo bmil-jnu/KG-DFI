@@ -1,0 +1,1643 @@
+food_entity,drug_entity,Drug_Name,Effect,class_label,label
+Food::FOOD00854,Compound::DB01048,Abacavir,Positive,2,1
+Food::FOOD00193,Compound::DB00054,Abciximab,Possible,1,1
+Food::FOOD00008,Compound::DB00054,Abciximab,Possible,1,1
+Food::FOOD00206,Compound::DB00054,Abciximab,Possible,1,1
+Food::FOOD00256,Compound::DB12001,Abemaciclib,Positive,2,1
+Food::FOOD00256,Compound::DB11703,Acalabrutinib,Positive,2,1
+Food::FOOD00176,Compound::DB00284,Acarbose,Possible,1,1
+Food::FOOD00193,Compound::DB01418,Acenocoumarol,Possible,1,1
+Food::FOOD00908,Compound::DB01418,Acenocoumarol,Possible,1,1
+Food::FOOD00008,Compound::DB01418,Acenocoumarol,Possible,1,1
+Food::FOOD00206,Compound::DB01418,Acenocoumarol,Possible,1,1
+Food::FOOD00626,Compound::DB01418,Acenocoumarol,Possible,1,1
+Food::FOOD00854,Compound::DB01614,Acepromazine,Possible,1,1
+Food::FOOD00208,Compound::DB00316,Acetaminophen,Possible,1,1
+Food::FOOD00355,Compound::DB00316,Acetaminophen,Possible,1,1
+Food::FOOD00256,Compound::DB00316,Acetaminophen,Possible,1,1
+Food::FOOD00150,Compound::DB00316,Acetaminophen,Possible,1,1
+Food::FOOD00137,Compound::DB00316,Acetaminophen,Possible,1,1
+Food::FOOD00153,Compound::DB00316,Acetaminophen,Possible,1,1
+Food::FOOD00854,Compound::DB00414,Acetohexamide,Possible,1,1
+Food::FOOD00854,Compound::DB00551,Acetohydroxamic Acid,Possible,1,1
+Food::FOOD00854,Compound::DB00459,Acitretin,Possible,1,1
+Food::FOOD00908,Compound::DB00640,Adenosine,Possible,1,1
+Food::FOOD00918,Compound::DB00630,Alendronic Acid,Negative,3,1
+Food::FOOD00056,Compound::DB00630,Alendronic Acid,Negative,3,1
+Food::FOOD00057,Compound::DB00630,Alendronic Acid,Negative,3,1
+Food::FOOD00854,Compound::DB01246,Alimemazine,Possible,1,1
+Food::FOOD00105,Compound::DB09026,Aliskiren,Negative,3,1
+Food::FOOD00256,Compound::DB09026,Aliskiren,Negative,3,1
+Food::FOOD00918,Compound::DB09026,Aliskiren,Negative,3,1
+Food::FOOD00056,Compound::DB09026,Aliskiren,Negative,3,1
+Food::FOOD00057,Compound::DB09026,Aliskiren,Negative,3,1
+Food::FOOD00105,Compound::DB06203,Alogliptin,Possible,1,1
+Food::FOOD00854,Compound::DB00404,Alprazolam,Possible,1,1
+Food::FOOD00193,Compound::DB00009,Alteplase,Possible,1,1
+Food::FOOD00008,Compound::DB00009,Alteplase,Possible,1,1
+Food::FOOD00206,Compound::DB00009,Alteplase,Possible,1,1
+Food::FOOD00193,Compound::DB06679,Amediplase,Possible,1,1
+Food::FOOD00008,Compound::DB06679,Amediplase,Possible,1,1
+Food::FOOD00206,Compound::DB06679,Amediplase,Possible,1,1
+Food::FOOD00079,Compound::DB00594,Amiloride,Possible,1,1
+Food::FOOD00498,Compound::DB00594,Amiloride,Possible,1,1
+Food::FOOD00854,Compound::DB04836,Amineptine,Possible,1,1
+Food::FOOD00908,Compound::DB04836,Amineptine,Possible,1,1
+Food::FOOD00854,Compound::DB01223,Aminophylline,Possible,1,1
+Food::FOOD00547,Compound::DB01223,Aminophylline,Possible,1,1
+Food::FOOD00908,Compound::DB01223,Aminophylline,Possible,1,1
+Food::FOOD00256,Compound::DB01223,Aminophylline,Positive,2,1
+Food::FOOD00626,Compound::DB01223,Aminophylline,Possible,1,1
+Food::FOOD00256,Compound::DB01118,Amiodarone,Positive,2,1
+Food::FOOD00041,Compound::DB01118,Amiodarone,Possible,1,1
+Food::FOOD00918,Compound::DB01118,Amiodarone,Possible,1,1
+Food::FOOD00854,Compound::DB06288,Amisulpride,Possible,1,1
+Food::FOOD00854,Compound::DB00321,Amitriptyline,Possible,1,1
+Food::FOOD00908,Compound::DB00321,Amitriptyline,Possible,1,1
+Food::FOOD00186,Compound::DB00381,Amlodipine,Possible,1,1
+Food::FOOD00206,Compound::DB00381,Amlodipine,Possible,1,1
+Food::FOOD00723,Compound::DB00381,Amlodipine,Possible,1,1
+Food::FOOD00388,Compound::DB00381,Amlodipine,Possible,1,1
+Food::FOOD00447,Compound::DB00381,Amlodipine,Possible,1,1
+Food::FOOD00854,Compound::DB01351,Amobarbital,Possible,1,1
+Food::FOOD00291,Compound::DB00613,Amodiaquine,Possible,1,1
+Food::FOOD00854,Compound::DB00543,Amoxapine,Possible,1,1
+Food::FOOD00908,Compound::DB01060,Amoxicillin,Possible,1,1
+Food::FOOD00854,Compound::DB01612,Amyl Nitrite,Possible,1,1
+Food::FOOD00081,Compound::DB01217,Anastrozole,Possible,1,1
+Food::FOOD00193,Compound::DB05099,Ancrod,Possible,1,1
+Food::FOOD00008,Compound::DB05099,Ancrod,Possible,1,1
+Food::FOOD00206,Compound::DB05099,Ancrod,Possible,1,1
+Food::FOOD00193,Compound::DB00029,Anistreplase,Possible,1,1
+Food::FOOD00008,Compound::DB00029,Anistreplase,Possible,1,1
+Food::FOOD00206,Compound::DB00029,Anistreplase,Possible,1,1
+Food::FOOD00193,Compound::DB11166,Antithrombin Alfa,Possible,1,1
+Food::FOOD00008,Compound::DB11166,Antithrombin Alfa,Possible,1,1
+Food::FOOD00206,Compound::DB11166,Antithrombin Alfa,Possible,1,1
+Food::FOOD00193,Compound::DB11598,Antithrombin Iii Human,Possible,1,1
+Food::FOOD00008,Compound::DB11598,Antithrombin Iii Human,Possible,1,1
+Food::FOOD00206,Compound::DB11598,Antithrombin Iii Human,Possible,1,1
+Food::FOOD00105,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00059,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00193,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00155,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00212,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00050,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00182,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00336,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00186,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00990,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00908,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00008,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00206,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00256,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00108,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00053,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00189,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00056,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00106,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00022,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00139,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00159,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00200,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00170,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00918,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00085,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00914,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00178,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00091,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00145,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00068,Compound::DB06605,Apixaban,Possible,1,1
+Food::FOOD00854,Compound::DB00714,Apomorphine,Possible,1,1
+Food::FOOD00193,Compound::DB00407,Ardeparin,Possible,1,1
+Food::FOOD00008,Compound::DB00407,Ardeparin,Possible,1,1
+Food::FOOD00206,Compound::DB00407,Ardeparin,Possible,1,1
+Food::FOOD00193,Compound::DB00278,Argatroban,Possible,1,1
+Food::FOOD00008,Compound::DB00278,Argatroban,Possible,1,1
+Food::FOOD00206,Compound::DB00278,Argatroban,Possible,1,1
+Food::FOOD00854,Compound::DB01238,Aripiprazole,Possible,1,1
+Food::FOOD00204,Compound::DB01238,Aripiprazole,Possible,1,1
+Food::FOOD00054,Compound::DB01238,Aripiprazole,Possible,1,1
+Food::FOOD00854,Compound::DB06413,Armodafinil,Possible,1,1
+Food::FOOD00256,Compound::DB06413,Armodafinil,Positive,2,1
+Food::FOOD00256,Compound::DB06697,Artemether,Positive,2,1
+Food::FOOD00256,Compound::DB12597,Asciminib,Positive,2,1
+Food::FOOD00854,Compound::DB00945,Aspirin,Positive,2,1
+Food::FOOD00105,Compound::DB00945,Aspirin,Possible,1,1
+Food::FOOD00193,Compound::DB00945,Aspirin,Positive,2,1
+Food::FOOD00027,Compound::DB00945,Aspirin,Possible,1,1
+Food::FOOD00216,Compound::DB00945,Aspirin,Possible,1,1
+Food::FOOD00908,Compound::DB00945,Aspirin,Possible,1,1
+Food::FOOD00008,Compound::DB00945,Aspirin,Positive,2,1
+Food::FOOD00206,Compound::DB00945,Aspirin,Positive,2,1
+Food::FOOD00369,Compound::DB00945,Aspirin,Possible,1,1
+Food::FOOD00004,Compound::DB00945,Aspirin,Possible,1,1
+Food::FOOD00053,Compound::DB00945,Aspirin,Possible,1,1
+Food::FOOD00543,Compound::DB00945,Aspirin,Possible,1,1
+Food::FOOD00548,Compound::DB00945,Aspirin,Possible,1,1
+Food::FOOD00083,Compound::DB00945,Aspirin,Possible,1,1
+Food::FOOD00180,Compound::DB00945,Aspirin,Positive,2,1
+Food::FOOD00256,Compound::DB11586,Asunaprevir,Positive,2,1
+Food::FOOD00105,Compound::DB00335,Atenolol,Negative,3,1
+Food::FOOD00918,Compound::DB00335,Atenolol,Negative,3,1
+Food::FOOD00056,Compound::DB00335,Atenolol,Negative,3,1
+Food::FOOD00057,Compound::DB00335,Atenolol,Negative,3,1
+Food::FOOD00291,Compound::DB00289,Atomoxetine,Possible,1,1
+Food::FOOD00256,Compound::DB01076,Atorvastatin,Positive,2,1
+Food::FOOD00908,Compound::DB01076,Atorvastatin,Negative,3,1
+Food::FOOD00022,Compound::DB01076,Atorvastatin,Possible,1,1
+Food::FOOD00925,Compound::DB01076,Atorvastatin,Possible,1,1
+Food::FOOD00854,Compound::DB00572,Atropine,Possible,1,1
+Food::FOOD00256,Compound::DB15011,Avacopan,Positive,2,1
+Food::FOOD00854,Compound::DB06237,Avanafil,Possible,1,1
+Food::FOOD00256,Compound::DB06237,Avanafil,Positive,2,1
+Food::FOOD00854,Compound::DB00719,Azatadine,Possible,1,1
+Food::FOOD00854,Compound::DB00548,Azelaic Acid,Possible,1,1
+Food::FOOD00854,Compound::DB00972,Azelastine,Possible,1,1
+Food::FOOD00854,Compound::DB00181,Baclofen,Possible,1,1
+Food::FOOD00618,Compound::DB13997,Baloxavir Marboxil,Negative,3,1
+Food::FOOD00206,Compound::DB08903,Bedaquiline,Possible,1,1
+Food::FOOD00388,Compound::DB08903,Bedaquiline,Possible,1,1
+Food::FOOD00193,Compound::DB09258,Bemiparin,Possible,1,1
+Food::FOOD00008,Compound::DB09258,Bemiparin,Possible,1,1
+Food::FOOD00206,Compound::DB09258,Bemiparin,Possible,1,1
+Food::FOOD00079,Compound::DB00542,Benazepril,Possible,1,1
+Food::FOOD00498,Compound::DB00542,Benazepril,Possible,1,1
+Food::FOOD00854,Compound::DB00436,Bendroflumethiazide,Possible,1,1
+Food::FOOD00854,Compound::DB00245,Benzatropine,Possible,1,1
+Food::FOOD00854,Compound::DB15465,Benzhydrocodone,Possible,1,1
+Food::FOOD00854,Compound::DB11989,Benznidazole,Possible,1,1
+Food::FOOD00908,Compound::DB00865,Benzphetamine,Possible,1,1
+Food::FOOD00854,Compound::DB01244,Bepridil,Possible,1,1
+Food::FOOD00193,Compound::DB05229,Beraprost,Possible,1,1
+Food::FOOD00008,Compound::DB05229,Beraprost,Possible,1,1
+Food::FOOD00206,Compound::DB05229,Beraprost,Possible,1,1
+Food::FOOD00193,Compound::DB12364,Betrixaban,Possible,1,1
+Food::FOOD00155,Compound::DB12364,Betrixaban,Possible,1,1
+Food::FOOD00212,Compound::DB12364,Betrixaban,Possible,1,1
+Food::FOOD00050,Compound::DB12364,Betrixaban,Possible,1,1
+Food::FOOD00182,Compound::DB12364,Betrixaban,Possible,1,1
+Food::FOOD00336,Compound::DB12364,Betrixaban,Possible,1,1
+Food::FOOD00990,Compound::DB12364,Betrixaban,Possible,1,1
+Food::FOOD00908,Compound::DB12364,Betrixaban,Possible,1,1
+Food::FOOD00008,Compound::DB12364,Betrixaban,Possible,1,1
+Food::FOOD00206,Compound::DB12364,Betrixaban,Possible,1,1
+Food::FOOD00369,Compound::DB12364,Betrixaban,Possible,1,1
+Food::FOOD00256,Compound::DB12364,Betrixaban,Possible,1,1
+Food::FOOD00108,Compound::DB12364,Betrixaban,Possible,1,1
+Food::FOOD00189,Compound::DB12364,Betrixaban,Possible,1,1
+Food::FOOD00056,Compound::DB12364,Betrixaban,Possible,1,1
+Food::FOOD00106,Compound::DB12364,Betrixaban,Possible,1,1
+Food::FOOD00022,Compound::DB12364,Betrixaban,Possible,1,1
+Food::FOOD00139,Compound::DB12364,Betrixaban,Possible,1,1
+Food::FOOD00040,Compound::DB12364,Betrixaban,Possible,1,1
+Food::FOOD00159,Compound::DB12364,Betrixaban,Possible,1,1
+Food::FOOD00200,Compound::DB12364,Betrixaban,Possible,1,1
+Food::FOOD00170,Compound::DB12364,Betrixaban,Possible,1,1
+Food::FOOD00918,Compound::DB12364,Betrixaban,Possible,1,1
+Food::FOOD00914,Compound::DB12364,Betrixaban,Possible,1,1
+Food::FOOD00178,Compound::DB12364,Betrixaban,Possible,1,1
+Food::FOOD00091,Compound::DB12364,Betrixaban,Possible,1,1
+Food::FOOD00068,Compound::DB12364,Betrixaban,Possible,1,1
+Food::FOOD00854,Compound::DB12236,Bexagliflozin,Possible,1,1
+Food::FOOD00256,Compound::DB11591,Bilastine,Negative,3,1
+Food::FOOD00619,Compound::DB00121,Biotin,Negative,3,1
+Food::FOOD00854,Compound::DB00810,Biperiden,Possible,1,1
+Food::FOOD00618,Compound::DB09020,Bisacodyl,Possible,1,1
+Food::FOOD00193,Compound::DB00006,Bivalirudin,Possible,1,1
+Food::FOOD00008,Compound::DB00006,Bivalirudin,Possible,1,1
+Food::FOOD00206,Compound::DB00006,Bivalirudin,Possible,1,1
+Food::FOOD00369,Compound::DB09223,Blonanserin,Positive,2,1
+Food::FOOD00105,Compound::DB00188,Bortezomib,Possible,1,1
+Food::FOOD00027,Compound::DB00188,Bortezomib,Possible,1,1
+Food::FOOD00216,Compound::DB00188,Bortezomib,Possible,1,1
+Food::FOOD00204,Compound::DB00188,Bortezomib,Possible,1,1
+Food::FOOD00369,Compound::DB00188,Bortezomib,Possible,1,1
+Food::FOOD00256,Compound::DB00188,Bortezomib,Positive,2,1
+Food::FOOD00908,Compound::DB00188,Bortezomib,Possible,1,1
+Food::FOOD00004,Compound::DB00188,Bortezomib,Possible,1,1
+Food::FOOD00054,Compound::DB00188,Bortezomib,Possible,1,1
+Food::FOOD00053,Compound::DB00188,Bortezomib,Possible,1,1
+Food::FOOD00543,Compound::DB00188,Bortezomib,Possible,1,1
+Food::FOOD00548,Compound::DB00188,Bortezomib,Possible,1,1
+Food::FOOD00083,Compound::DB00188,Bortezomib,Possible,1,1
+Food::FOOD00256,Compound::DB06616,Bosutinib,Positive,2,1
+Food::FOOD00256,Compound::DB08870,Brentuximab Vedotin,Positive,2,1
+Food::FOOD00854,Compound::DB11859,Brexanolone,Possible,1,1
+Food::FOOD00256,Compound::DB09128,Brexpiprazole,Possible,1,1
+Food::FOOD00151,Compound::DB09128,Brexpiprazole,Possible,1,1
+Food::FOOD00256,Compound::DB12267,Brigatinib,Positive,2,1
+Food::FOOD00854,Compound::DB00484,Brimonidine,Possible,1,1
+Food::FOOD00854,Compound::DB05541,Brivaracetam,Possible,1,1
+Food::FOOD00854,Compound::DB01558,Bromazepam,Possible,1,1
+Food::FOOD00854,Compound::DB01200,Bromocriptine,Possible,1,1
+Food::FOOD00854,Compound::DB00835,Brompheniramine,Possible,1,1
+Food::FOOD00256,Compound::DB01222,Budesonide,Positive,2,1
+Food::FOOD00854,Compound::DB00921,Buprenorphine,Possible,1,1
+Food::FOOD00256,Compound::DB00921,Buprenorphine,Positive,2,1
+Food::FOOD00119,Compound::DB01156,Bupropion,Possible,1,1
+Food::FOOD00854,Compound::DB00490,Buspirone,Possible,1,1
+Food::FOOD00193,Compound::DB00490,Buspirone,Positive,2,1
+Food::FOOD00256,Compound::DB00490,Buspirone,Positive,2,1
+Food::FOOD00151,Compound::DB00490,Buspirone,Possible,1,1
+Food::FOOD00256,Compound::DB01008,Busulfan,Possible,1,1
+Food::FOOD00158,Compound::DB01008,Busulfan,Harmful,4,1
+Food::FOOD00854,Compound::DB00237,Butabarbital,Possible,1,1
+Food::FOOD00854,Compound::DB00241,Butalbital,Possible,1,1
+Food::FOOD00854,Compound::DB00611,Butorphanol,Possible,1,1
+Food::FOOD00256,Compound::DB06772,Cabazitaxel,Positive,2,1
+Food::FOOD00256,Compound::DB00248,Cabergoline,Positive,2,1
+Food::FOOD00256,Compound::DB08875,Cabozantinib,Positive,2,1
+Food::FOOD00256,Compound::DB00201,Caffeine,Positive,2,1
+Food::FOOD00390,Compound::DB00201,Caffeine,Possible,1,1
+Food::FOOD00137,Compound::DB00201,Caffeine,Possible,1,1
+Food::FOOD00854,Compound::DB08907,Canagliflozin,Possible,1,1
+Food::FOOD00193,Compound::DB06441,Cangrelor,Possible,1,1
+Food::FOOD00008,Compound::DB06441,Cangrelor,Possible,1,1
+Food::FOOD00206,Compound::DB06441,Cangrelor,Possible,1,1
+Food::FOOD00854,Compound::DB09061,Cannabidiol,Positive,2,1
+Food::FOOD00618,Compound::DB09061,Cannabidiol,Positive,2,1
+Food::FOOD00428,Compound::DB01197,Captopril,Possible,1,1
+Food::FOOD00040,Compound::DB01197,Captopril,Possible,1,1
+Food::FOOD00079,Compound::DB01197,Captopril,Possible,1,1
+Food::FOOD00008,Compound::DB01197,Captopril,Possible,1,1
+Food::FOOD00723,Compound::DB01197,Captopril,Possible,1,1
+Food::FOOD00069,Compound::DB01197,Captopril,Possible,1,1
+Food::FOOD00447,Compound::DB01197,Captopril,Possible,1,1
+Food::FOOD00498,Compound::DB01197,Captopril,Possible,1,1
+Food::FOOD00256,Compound::DB00564,Carbamazepine,Positive,2,1
+Food::FOOD00626,Compound::DB00564,Carbamazepine,Possible,1,1
+Food::FOOD00054,Compound::DB00564,Carbamazepine,Possible,1,1
+Food::FOOD00139,Compound::DB00564,Carbamazepine,Possible,1,1
+Food::FOOD00022,Compound::DB00564,Carbamazepine,Possible,1,1
+Food::FOOD00151,Compound::DB00564,Carbamazepine,Possible,1,1
+Food::FOOD00478,Compound::DB00564,Carbamazepine,Possible,1,1
+Food::FOOD00085,Compound::DB00564,Carbamazepine,Possible,1,1
+Food::FOOD00023,Compound::DB00564,Carbamazepine,Possible,1,1
+Food::FOOD00854,Compound::DB00748,Carbinoxamine,Possible,1,1
+Food::FOOD00256,Compound::DB06016,Cariprazine,Positive,2,1
+Food::FOOD00854,Compound::DB00395,Carisoprodol,Possible,1,1
+Food::FOOD00291,Compound::DB01136,Carvedilol,Possible,1,1
+Food::FOOD00854,Compound::DB01326,Cefamandole,Possible,1,1
+Food::FOOD00854,Compound::DB01329,Cefoperazone,Possible,1,1
+Food::FOOD00854,Compound::DB01330,Cefotetan,Possible,1,1
+Food::FOOD00854,Compound::DB00482,Celecoxib,Possible,1,1
+Food::FOOD00012,Compound::DB00482,Celecoxib,Positive,2,1
+Food::FOOD00256,Compound::DB04846,Celiprolol,Positive,2,1
+Food::FOOD00388,Compound::DB04846,Celiprolol,Possible,1,1
+Food::FOOD00918,Compound::DB04846,Celiprolol,Negative,3,1
+Food::FOOD00056,Compound::DB04846,Celiprolol,Negative,3,1
+Food::FOOD00057,Compound::DB04846,Celiprolol,Negative,3,1
+Food::FOOD00854,Compound::DB06119,Cenobamate,Possible,1,1
+Food::FOOD00256,Compound::DB06119,Cenobamate,Positive,2,1
+Food::FOOD00256,Compound::DB09063,Ceritinib,Positive,2,1
+Food::FOOD00079,Compound::DB00439,Cerivastatin,Possible,1,1
+Food::FOOD00498,Compound::DB00439,Cerivastatin,Possible,1,1
+Food::FOOD00193,Compound::DB09261,Certoparin,Possible,1,1
+Food::FOOD00008,Compound::DB09261,Certoparin,Possible,1,1
+Food::FOOD00206,Compound::DB09261,Certoparin,Possible,1,1
+Food::FOOD00854,Compound::DB01563,Chloral Hydrate,Possible,1,1
+Food::FOOD00854,Compound::DB08936,Chlorcyclizine,Possible,1,1
+Food::FOOD00854,Compound::DB00475,Chlordiazepoxide,Possible,1,1
+Food::FOOD00854,Compound::DB00477,Chlorpromazine,Possible,1,1
+Food::FOOD00854,Compound::DB00672,Chlorpropamide,Possible,1,1
+Food::FOOD00115,Compound::DB00672,Chlorpropamide,Possible,1,1
+Food::FOOD00854,Compound::DB01239,Chlorprothixene,Possible,1,1
+Food::FOOD00854,Compound::DB00356,Chlorzoxazone,Possible,1,1
+Food::FOOD00291,Compound::DB00356,Chlorzoxazone,Positive,2,1
+Food::FOOD00061,Compound::DB00356,Chlorzoxazone,Positive,2,1
+Food::FOOD00206,Compound::DB00356,Chlorzoxazone,Positive,2,1
+Food::FOOD00388,Compound::DB00356,Chlorzoxazone,Positive,2,1
+Food::FOOD00158,Compound::DB00356,Chlorzoxazone,Positive,2,1
+Food::FOOD00105,Compound::DB09129,Chromic Chloride,Positive,2,1
+Food::FOOD00027,Compound::DB09129,Chromic Chloride,Positive,2,1
+Food::FOOD00216,Compound::DB09129,Chromic Chloride,Positive,2,1
+Food::FOOD00204,Compound::DB09129,Chromic Chloride,Positive,2,1
+Food::FOOD00908,Compound::DB09129,Chromic Chloride,Positive,2,1
+Food::FOOD00369,Compound::DB09129,Chromic Chloride,Positive,2,1
+Food::FOOD00004,Compound::DB09129,Chromic Chloride,Positive,2,1
+Food::FOOD00054,Compound::DB09129,Chromic Chloride,Positive,2,1
+Food::FOOD00053,Compound::DB09129,Chromic Chloride,Positive,2,1
+Food::FOOD00543,Compound::DB09129,Chromic Chloride,Positive,2,1
+Food::FOOD00548,Compound::DB09129,Chromic Chloride,Positive,2,1
+Food::FOOD00083,Compound::DB09129,Chromic Chloride,Positive,2,1
+Food::FOOD00105,Compound::DB11136,Chromium,Positive,2,1
+Food::FOOD00027,Compound::DB11136,Chromium,Positive,2,1
+Food::FOOD00216,Compound::DB11136,Chromium,Positive,2,1
+Food::FOOD00204,Compound::DB11136,Chromium,Positive,2,1
+Food::FOOD00908,Compound::DB11136,Chromium,Positive,2,1
+Food::FOOD00369,Compound::DB11136,Chromium,Positive,2,1
+Food::FOOD00004,Compound::DB11136,Chromium,Positive,2,1
+Food::FOOD00054,Compound::DB11136,Chromium,Positive,2,1
+Food::FOOD00053,Compound::DB11136,Chromium,Positive,2,1
+Food::FOOD00543,Compound::DB11136,Chromium,Positive,2,1
+Food::FOOD00548,Compound::DB11136,Chromium,Positive,2,1
+Food::FOOD00083,Compound::DB11136,Chromium,Positive,2,1
+Food::FOOD00105,Compound::DB14529,Chromium Nicotinate,Possible,1,1
+Food::FOOD00027,Compound::DB14529,Chromium Nicotinate,Possible,1,1
+Food::FOOD00216,Compound::DB14529,Chromium Nicotinate,Possible,1,1
+Food::FOOD00204,Compound::DB14529,Chromium Nicotinate,Possible,1,1
+Food::FOOD00908,Compound::DB14529,Chromium Nicotinate,Possible,1,1
+Food::FOOD00369,Compound::DB14529,Chromium Nicotinate,Possible,1,1
+Food::FOOD00004,Compound::DB14529,Chromium Nicotinate,Possible,1,1
+Food::FOOD00054,Compound::DB14529,Chromium Nicotinate,Possible,1,1
+Food::FOOD00053,Compound::DB14529,Chromium Nicotinate,Possible,1,1
+Food::FOOD00543,Compound::DB14529,Chromium Nicotinate,Possible,1,1
+Food::FOOD00548,Compound::DB14529,Chromium Nicotinate,Possible,1,1
+Food::FOOD00083,Compound::DB14529,Chromium Nicotinate,Possible,1,1
+Food::FOOD00291,Compound::DB01166,Cilostazol,Possible,1,1
+Food::FOOD00256,Compound::DB01166,Cilostazol,Positive,2,1
+Food::FOOD00854,Compound::DB01594,Cinolazepam,Possible,1,1
+Food::FOOD00908,Compound::DB01594,Cinolazepam,Possible,1,1
+Food::FOOD00436,Compound::DB00537,Ciprofloxacin,Possible,1,1
+Food::FOOD00206,Compound::DB00537,Ciprofloxacin,Possible,1,1
+Food::FOOD00618,Compound::DB00537,Ciprofloxacin,Negative,3,1
+Food::FOOD00918,Compound::DB00537,Ciprofloxacin,Negative,3,1
+Food::FOOD00056,Compound::DB00537,Ciprofloxacin,Negative,3,1
+Food::FOOD00178,Compound::DB00537,Ciprofloxacin,Possible,1,1
+Food::FOOD00057,Compound::DB00537,Ciprofloxacin,Negative,3,1
+Food::FOOD00122,Compound::DB00537,Ciprofloxacin,Possible,1,1
+Food::FOOD00256,Compound::DB00604,Cisapride,Positive,2,1
+Food::FOOD00911,Compound::DB00604,Cisapride,Possible,1,1
+Food::FOOD00245,Compound::DB00515,Cisplatin,Possible,1,1
+Food::FOOD00011,Compound::DB00515,Cisplatin,Possible,1,1
+Food::FOOD00035,Compound::DB00515,Cisplatin,Possible,1,1
+Food::FOOD00135,Compound::DB00515,Cisplatin,Possible,1,1
+Food::FOOD00990,Compound::DB00515,Cisplatin,Possible,1,1
+Food::FOOD00171,Compound::DB00515,Cisplatin,Possible,1,1
+Food::FOOD00149,Compound::DB00515,Cisplatin,Possible,1,1
+Food::FOOD00122,Compound::DB00515,Cisplatin,Possible,1,1
+Food::FOOD00072,Compound::DB00515,Cisplatin,Possible,1,1
+Food::FOOD00854,Compound::DB00215,Citalopram,Possible,1,1
+Food::FOOD00854,Compound::DB00283,Clemastine,Possible,1,1
+Food::FOOD00079,Compound::DB04920,Clevidipine,Negative,3,1
+Food::FOOD00206,Compound::DB04920,Clevidipine,Negative,3,1
+Food::FOOD00256,Compound::DB04920,Clevidipine,Negative,3,1
+Food::FOOD00388,Compound::DB04920,Clevidipine,Negative,3,1
+Food::FOOD00854,Compound::DB00771,Clidinium,Possible,1,1
+Food::FOOD00854,Compound::DB00349,Clobazam,Positive,2,1
+Food::FOOD00918,Compound::DB00845,Clofazimine,Negative,3,1
+Food::FOOD00056,Compound::DB00845,Clofazimine,Negative,3,1
+Food::FOOD00057,Compound::DB00845,Clofazimine,Negative,3,1
+Food::FOOD00854,Compound::DB04837,Clofedanol,Possible,1,1
+Food::FOOD00854,Compound::DB01242,Clomipramine,Possible,1,1
+Food::FOOD00854,Compound::DB01068,Clonazepam,Possible,1,1
+Food::FOOD00908,Compound::DB01068,Clonazepam,Possible,1,1
+Food::FOOD00006,Compound::DB00758,Clopidogrel,Possible,1,1
+Food::FOOD00186,Compound::DB00758,Clopidogrel,Possible,1,1
+Food::FOOD00099,Compound::DB00758,Clopidogrel,Possible,1,1
+Food::FOOD00256,Compound::DB00758,Clopidogrel,Negative,3,1
+Food::FOOD00388,Compound::DB00758,Clopidogrel,Possible,1,1
+Food::FOOD00854,Compound::DB00628,Clorazepic Acid,Possible,1,1
+Food::FOOD00854,Compound::DB01553,Cloxazolam,Possible,1,1
+Food::FOOD00854,Compound::DB00363,Clozapine,Possible,1,1
+Food::FOOD00908,Compound::DB00363,Clozapine,Positive,2,1
+Food::FOOD00256,Compound::DB00363,Clozapine,Positive,2,1
+Food::FOOD00256,Compound::DB05239,Cobimetinib,Positive,2,1
+Food::FOOD00854,Compound::DB00318,Codeine,Positive,2,1
+Food::FOOD00256,Compound::DB01394,Colchicine,Harmful,4,1
+Food::FOOD00256,Compound::DB12483,Copanlisib,Positive,2,1
+Food::FOOD00256,Compound::DB01380,Cortisone Acetate,Positive,2,1
+Food::FOOD00206,Compound::DB08865,Crizotinib,Harmful,4,1
+Food::FOOD00256,Compound::DB08865,Crizotinib,Positive,2,1
+Food::FOOD00854,Compound::DB01176,Cyclizine,Possible,1,1
+Food::FOOD00854,Compound::DB00924,Cyclobenzaprine,Possible,1,1
+Food::FOOD00074,Compound::DB00531,Cyclophosphamide,Possible,1,1
+Food::FOOD00341,Compound::DB00531,Cyclophosphamide,Possible,1,1
+Food::FOOD00077,Compound::DB00531,Cyclophosphamide,Possible,1,1
+Food::FOOD00291,Compound::DB00091,Cyclosporine,Possible,1,1
+Food::FOOD00079,Compound::DB00091,Cyclosporine,Possible,1,1
+Food::FOOD00061,Compound::DB00091,Cyclosporine,Possible,1,1
+Food::FOOD00006,Compound::DB00091,Cyclosporine,Possible,1,1
+Food::FOOD00206,Compound::DB00091,Cyclosporine,Possible,1,1
+Food::FOOD00369,Compound::DB00091,Cyclosporine,Negative,3,1
+Food::FOOD00256,Compound::DB00091,Cyclosporine,Positive,2,1
+Food::FOOD00388,Compound::DB00091,Cyclosporine,Positive,2,1
+Food::FOOD00695,Compound::DB00091,Cyclosporine,Possible,1,1
+Food::FOOD00736,Compound::DB00091,Cyclosporine,Possible,1,1
+Food::FOOD00854,Compound::DB00434,Cyproheptadine,Possible,1,1
+Food::FOOD00854,Compound::DB04839,Cyproterone Acetate,Possible,1,1
+Food::FOOD00155,Compound::DB14726,Dabigatran,Possible,1,1
+Food::FOOD00212,Compound::DB14726,Dabigatran,Possible,1,1
+Food::FOOD00050,Compound::DB14726,Dabigatran,Possible,1,1
+Food::FOOD00572,Compound::DB14726,Dabigatran,Harmful,4,1
+Food::FOOD00182,Compound::DB14726,Dabigatran,Possible,1,1
+Food::FOOD00336,Compound::DB14726,Dabigatran,Possible,1,1
+Food::FOOD00990,Compound::DB14726,Dabigatran,Possible,1,1
+Food::FOOD00908,Compound::DB14726,Dabigatran,Possible,1,1
+Food::FOOD00008,Compound::DB14726,Dabigatran,Possible,1,1
+Food::FOOD00206,Compound::DB14726,Dabigatran,Harmful,4,1
+Food::FOOD00369,Compound::DB14726,Dabigatran,Possible,1,1
+Food::FOOD00256,Compound::DB14726,Dabigatran,Possible,1,1
+Food::FOOD00108,Compound::DB14726,Dabigatran,Possible,1,1
+Food::FOOD00189,Compound::DB14726,Dabigatran,Possible,1,1
+Food::FOOD00056,Compound::DB14726,Dabigatran,Possible,1,1
+Food::FOOD00106,Compound::DB14726,Dabigatran,Possible,1,1
+Food::FOOD00022,Compound::DB14726,Dabigatran,Possible,1,1
+Food::FOOD00139,Compound::DB14726,Dabigatran,Possible,1,1
+Food::FOOD00040,Compound::DB14726,Dabigatran,Possible,1,1
+Food::FOOD00159,Compound::DB14726,Dabigatran,Possible,1,1
+Food::FOOD00200,Compound::DB14726,Dabigatran,Possible,1,1
+Food::FOOD00170,Compound::DB14726,Dabigatran,Possible,1,1
+Food::FOOD00918,Compound::DB14726,Dabigatran,Possible,1,1
+Food::FOOD00914,Compound::DB14726,Dabigatran,Possible,1,1
+Food::FOOD00178,Compound::DB14726,Dabigatran,Possible,1,1
+Food::FOOD00091,Compound::DB14726,Dabigatran,Possible,1,1
+Food::FOOD00068,Compound::DB14726,Dabigatran,Possible,1,1
+Food::FOOD00193,Compound::DB06695,Dabigatran Etexilate,Possible,1,1
+Food::FOOD00008,Compound::DB06695,Dabigatran Etexilate,Possible,1,1
+Food::FOOD00206,Compound::DB06695,Dabigatran Etexilate,Possible,1,1
+Food::FOOD00256,Compound::DB08912,Dabrafenib,Positive,2,1
+Food::FOOD00256,Compound::DB09102,Daclatasvir,Positive,2,1
+Food::FOOD00388,Compound::DB09102,Daclatasvir,Possible,1,1
+Food::FOOD00193,Compound::DB06779,Dalteparin,Possible,1,1
+Food::FOOD00008,Compound::DB06779,Dalteparin,Possible,1,1
+Food::FOOD00206,Compound::DB06779,Dalteparin,Possible,1,1
+Food::FOOD00854,Compound::DB06754,Danaparoid,Possible,1,1
+Food::FOOD00193,Compound::DB06754,Danaparoid,Possible,1,1
+Food::FOOD00008,Compound::DB06754,Danaparoid,Possible,1,1
+Food::FOOD00206,Compound::DB06754,Danaparoid,Possible,1,1
+Food::FOOD00854,Compound::DB06292,Dapagliflozin,Possible,1,1
+Food::FOOD00193,Compound::DB12289,Darexaban,Possible,1,1
+Food::FOOD00008,Compound::DB12289,Darexaban,Possible,1,1
+Food::FOOD00206,Compound::DB12289,Darexaban,Possible,1,1
+Food::FOOD00008,Compound::DB01264,Darunavir,Harmful,4,1
+Food::FOOD00105,Compound::DB01254,Dasatinib,Possible,1,1
+Food::FOOD00256,Compound::DB01254,Dasatinib,Possible,1,1
+Food::FOOD00918,Compound::DB01254,Dasatinib,Possible,1,1
+Food::FOOD00056,Compound::DB01254,Dasatinib,Possible,1,1
+Food::FOOD00057,Compound::DB01254,Dasatinib,Possible,1,1
+Food::FOOD00015,Compound::DB01254,Dasatinib,Possible,1,1
+Food::FOOD00193,Compound::DB04932,Defibrotide,Possible,1,1
+Food::FOOD00008,Compound::DB04932,Defibrotide,Possible,1,1
+Food::FOOD00206,Compound::DB04932,Defibrotide,Possible,1,1
+Food::FOOD00256,Compound::DB11921,Deflazacort,Positive,2,1
+Food::FOOD00618,Compound::DB00618,Demeclocycline,Negative,3,1
+Food::FOOD00854,Compound::DB01151,Desipramine,Possible,1,1
+Food::FOOD00908,Compound::DB01151,Desipramine,Possible,1,1
+Food::FOOD00193,Compound::DB11095,Desirudin,Possible,1,1
+Food::FOOD00008,Compound::DB11095,Desirudin,Possible,1,1
+Food::FOOD00206,Compound::DB11095,Desirudin,Possible,1,1
+Food::FOOD00193,Compound::DB04925,Desmoteplase,Possible,1,1
+Food::FOOD00008,Compound::DB04925,Desmoteplase,Possible,1,1
+Food::FOOD00206,Compound::DB04925,Desmoteplase,Possible,1,1
+Food::FOOD00854,Compound::DB12161,Deutetrabenazine,Possible,1,1
+Food::FOOD00076,Compound::DB01234,Dexamethasone,Possible,1,1
+Food::FOOD00854,Compound::DB00405,Dexbrompheniramine,Possible,1,1
+Food::FOOD00854,Compound::DB09555,Dexchlorpheniramine Maleate,Possible,1,1
+Food::FOOD00854,Compound::DB06701,Dexmethylphenidate,Possible,1,1
+Food::FOOD00193,Compound::DB09255,Dextran,Possible,1,1
+Food::FOOD00008,Compound::DB09255,Dextran,Possible,1,1
+Food::FOOD00206,Compound::DB09255,Dextran,Possible,1,1
+Food::FOOD00388,Compound::DB00514,Dextromethorphan,Negative,3,1
+Food::FOOD00390,Compound::DB00514,Dextromethorphan,Possible,1,1
+Food::FOOD00854,Compound::DB00647,Dextropropoxyphene,Possible,1,1
+Food::FOOD00854,Compound::DB01120,Diamicron,Possible,1,1
+Food::FOOD00854,Compound::DB01452,Diamorphine,Possible,1,1
+Food::FOOD00854,Compound::DB00829,Diazepam,Possible,1,1
+Food::FOOD00256,Compound::DB00829,Diazepam,Positive,2,1
+Food::FOOD00854,Compound::DB01495,Dichloralphenazone,Possible,1,1
+Food::FOOD00079,Compound::DB01144,Dichlorphenamide,Possible,1,1
+Food::FOOD00498,Compound::DB01144,Dichlorphenamide,Possible,1,1
+Food::FOOD00854,Compound::DB00586,Diclofenac,Possible,1,1
+Food::FOOD00079,Compound::DB00586,Diclofenac,Possible,1,1
+Food::FOOD00206,Compound::DB00586,Diclofenac,Possible,1,1
+Food::FOOD00256,Compound::DB00586,Diclofenac,Possible,1,1
+Food::FOOD00447,Compound::DB00586,Diclofenac,Possible,1,1
+Food::FOOD00723,Compound::DB00586,Diclofenac,Possible,1,1
+Food::FOOD00388,Compound::DB00586,Diclofenac,Possible,1,1
+Food::FOOD00193,Compound::DB00266,Dicoumarol,Possible,1,1
+Food::FOOD00008,Compound::DB00266,Dicoumarol,Possible,1,1
+Food::FOOD00206,Compound::DB00266,Dicoumarol,Possible,1,1
+Food::FOOD00854,Compound::DB00804,Dicyclomine,Possible,1,1
+Food::FOOD00256,Compound::DB09123,Dienogest,Positive,2,1
+Food::FOOD00854,Compound::DB11938,Difelikefalin,Possible,1,1
+Food::FOOD00854,Compound::DB01501,Difenoxin,Possible,1,1
+Food::FOOD00854,Compound::DB00861,Diflunisal,Possible,1,1
+Food::FOOD00130,Compound::DB01396,Digitoxin,Possible,1,1
+Food::FOOD00079,Compound::DB00390,Digoxin,Possible,1,1
+Food::FOOD00369,Compound::DB00390,Digoxin,Possible,1,1
+Food::FOOD00908,Compound::DB00390,Digoxin,Negative,3,1
+Food::FOOD00498,Compound::DB00390,Digoxin,Possible,1,1
+Food::FOOD00854,Compound::DB01551,Dihydrocodeine,Possible,1,1
+Food::FOOD00256,Compound::DB00320,Dihydroergotamine,Positive,2,1
+Food::FOOD00291,Compound::DB00343,Diltiazem,Possible,1,1
+Food::FOOD00204,Compound::DB00343,Diltiazem,Possible,1,1
+Food::FOOD00061,Compound::DB00343,Diltiazem,Possible,1,1
+Food::FOOD00206,Compound::DB00343,Diltiazem,Possible,1,1
+Food::FOOD00256,Compound::DB00343,Diltiazem,Positive,2,1
+Food::FOOD00388,Compound::DB00343,Diltiazem,Possible,1,1
+Food::FOOD00054,Compound::DB00343,Diltiazem,Possible,1,1
+Food::FOOD00121,Compound::DB00343,Diltiazem,Possible,1,1
+Food::FOOD00200,Compound::DB00343,Diltiazem,Possible,1,1
+Food::FOOD00854,Compound::DB00985,Dimenhydrinate,Possible,1,1
+Food::FOOD00854,Compound::DB08908,Dimethyl Fumarate,Possible,1,1
+Food::FOOD00854,Compound::DB01075,Diphenhydramine,Possible,1,1
+Food::FOOD00854,Compound::DB01081,Diphenoxylate,Possible,1,1
+Food::FOOD00008,Compound::DB00975,Dipyridamole,Possible,1,1
+Food::FOOD00854,Compound::DB14783,Diroximel Fumarate,Possible,1,1
+Food::FOOD00854,Compound::DB00280,Disopyramide,Possible,1,1
+Food::FOOD00854,Compound::DB00822,Disulfiram,Possible,1,1
+Food::FOOD00193,Compound::DB08994,Ditazole,Possible,1,1
+Food::FOOD00008,Compound::DB08994,Ditazole,Possible,1,1
+Food::FOOD00206,Compound::DB08994,Ditazole,Possible,1,1
+Food::FOOD00291,Compound::DB01248,Docetaxel,Possible,1,1
+Food::FOOD00256,Compound::DB01248,Docetaxel,Harmful,4,1
+Food::FOOD00388,Compound::DB01248,Docetaxel,Possible,1,1
+Food::FOOD00085,Compound::DB01248,Docetaxel,Possible,1,1
+Food::FOOD00256,Compound::DB00204,Dofetilide,Positive,2,1
+Food::FOOD00139,Compound::DB01184,Domperidone,Possible,1,1
+Food::FOOD00022,Compound::DB01184,Domperidone,Possible,1,1
+Food::FOOD00854,Compound::DB00843,Donepezil,Possible,1,1
+Food::FOOD00085,Compound::DB00843,Donepezil,Possible,1,1
+Food::FOOD00854,Compound::DB00590,Doxazosin,Possible,1,1
+Food::FOOD00854,Compound::DB01142,Doxepin,Possible,1,1
+Food::FOOD00291,Compound::DB00997,Doxorubicin,Possible,1,1
+Food::FOOD00061,Compound::DB00997,Doxorubicin,Possible,1,1
+Food::FOOD00135,Compound::DB00997,Doxorubicin,Possible,1,1
+Food::FOOD00048,Compound::DB00997,Doxorubicin,Possible,1,1
+Food::FOOD00171,Compound::DB00997,Doxorubicin,Possible,1,1
+Food::FOOD00206,Compound::DB00997,Doxorubicin,Possible,1,1
+Food::FOOD00071,Compound::DB00997,Doxorubicin,Possible,1,1
+Food::FOOD00256,Compound::DB00997,Doxorubicin,Positive,2,1
+Food::FOOD00388,Compound::DB00997,Doxorubicin,Possible,1,1
+Food::FOOD00691,Compound::DB00997,Doxorubicin,Possible,1,1
+Food::FOOD00076,Compound::DB00997,Doxorubicin,Possible,1,1
+Food::FOOD00618,Compound::DB00997,Doxorubicin,Possible,1,1
+Food::FOOD00406,Compound::DB00997,Doxorubicin,Possible,1,1
+Food::FOOD00264,Compound::DB00997,Doxorubicin,Possible,1,1
+Food::FOOD00177,Compound::DB00997,Doxorubicin,Possible,1,1
+Food::FOOD00083,Compound::DB00997,Doxorubicin,Possible,1,1
+Food::FOOD00091,Compound::DB00997,Doxorubicin,Possible,1,1
+Food::FOOD00508,Compound::DB00997,Doxorubicin,Possible,1,1
+Food::FOOD00854,Compound::DB00366,Doxylamine,Possible,1,1
+Food::FOOD00256,Compound::DB04855,Dronedarone,Positive,2,1
+Food::FOOD00193,Compound::DB00055,Drotrecogin Alfa,Possible,1,1
+Food::FOOD00008,Compound::DB00055,Drotrecogin Alfa,Possible,1,1
+Food::FOOD00206,Compound::DB00055,Drotrecogin Alfa,Possible,1,1
+Food::FOOD00854,Compound::DB00476,Duloxetine,Possible,1,1
+Food::FOOD00256,Compound::DB11742,Ebastine,Positive,2,1
+Food::FOOD00193,Compound::DB00974,Edetic Acid,Possible,1,1
+Food::FOOD00008,Compound::DB00974,Edetic Acid,Possible,1,1
+Food::FOOD00206,Compound::DB00974,Edetic Acid,Possible,1,1
+Food::FOOD00059,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00193,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00155,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00212,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00050,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00182,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00336,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00990,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00908,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00008,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00206,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00369,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00256,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00108,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00053,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00189,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00056,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00106,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00022,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00139,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00159,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00200,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00170,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00918,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00085,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00914,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00178,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00091,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00145,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00068,Compound::DB09075,Edoxaban,Possible,1,1
+Food::FOOD00854,Compound::DB00625,Efavirenz,Possible,1,1
+Food::FOOD00256,Compound::DB06374,Elacestrant,Positive,2,1
+Food::FOOD00256,Compound::DB09039,Eliglustat,Positive,2,1
+Food::FOOD00079,Compound::DB06210,Eltrombopag,Possible,1,1
+Food::FOOD00854,Compound::DB09272,Eluxadoline,Possible,1,1
+Food::FOOD00428,Compound::DB00584,Enalapril,Negative,3,1
+Food::FOOD00040,Compound::DB00584,Enalapril,Negative,3,1
+Food::FOOD00079,Compound::DB00584,Enalapril,Positive,2,1
+Food::FOOD00498,Compound::DB00584,Enalapril,Positive,2,1
+Food::FOOD00256,Compound::DB11718,Encorafenib,Positive,2,1
+Food::FOOD00193,Compound::DB01225,Enoxaparin,Possible,1,1
+Food::FOOD00008,Compound::DB01225,Enoxaparin,Possible,1,1
+Food::FOOD00206,Compound::DB01225,Enoxaparin,Possible,1,1
+Food::FOOD00256,Compound::DB11986,Entrectinib,Positive,2,1
+Food::FOOD00908,Compound::DB01364,Ephedrine,Possible,1,1
+Food::FOOD00256,Compound::DB00700,Eplerenone,Positive,2,1
+Food::FOOD00080,Compound::DB00700,Eplerenone,Possible,1,1
+Food::FOOD00193,Compound::DB01240,Epoprostenol,Possible,1,1
+Food::FOOD00008,Compound::DB01240,Epoprostenol,Possible,1,1
+Food::FOOD00206,Compound::DB01240,Epoprostenol,Possible,1,1
+Food::FOOD00193,Compound::DB00063,Eptifibatide,Possible,1,1
+Food::FOOD00008,Compound::DB00063,Eptifibatide,Possible,1,1
+Food::FOOD00206,Compound::DB00063,Eptifibatide,Possible,1,1
+Food::FOOD00256,Compound::DB00530,Erlotinib,Positive,2,1
+Food::FOOD00908,Compound::DB00530,Erlotinib,Possible,1,1
+Food::FOOD00447,Compound::DB00530,Erlotinib,Harmful,4,1
+Food::FOOD00723,Compound::DB00530,Erlotinib,Harmful,4,1
+Food::FOOD00854,Compound::DB01613,Erythrityl Tetranitrate,Possible,1,1
+Food::FOOD00256,Compound::DB00199,Erythromycin,Positive,2,1
+Food::FOOD00854,Compound::DB01175,Escitalopram,Possible,1,1
+Food::FOOD00854,Compound::DB11823,Esketamine,Possible,1,1
+Food::FOOD00256,Compound::DB11823,Esketamine,Positive,2,1
+Food::FOOD00256,Compound::DB09381,Esterified Estrogens,Positive,2,1
+Food::FOOD00256,Compound::DB00783,Estradiol,Positive,2,1
+Food::FOOD00256,Compound::DB13952,Estradiol Acetate,Positive,2,1
+Food::FOOD00256,Compound::DB13954,Estradiol Cypionate,Positive,2,1
+Food::FOOD00256,Compound::DB13956,Estradiol Valerate,Positive,2,1
+Food::FOOD00618,Compound::DB01196,Estramustine,Negative,3,1
+Food::FOOD00854,Compound::DB00655,Estrone,Positive,2,1
+Food::FOOD00256,Compound::DB00655,Estrone,Positive,2,1
+Food::FOOD00854,Compound::DB00402,Eszopiclone,Positive,2,1
+Food::FOOD00193,Compound::DB00005,Etanercept,Possible,1,1
+Food::FOOD00854,Compound::DB00189,Ethchlorvynol,Possible,1,1
+Food::FOOD00256,Compound::DB00977,Ethinyl Estradiol,Harmful,4,1
+Food::FOOD00854,Compound::DB00593,Ethosuximide,Possible,1,1
+Food::FOOD00193,Compound::DB08794,Ethyl Biscoumacetate,Possible,1,1
+Food::FOOD00008,Compound::DB08794,Ethyl Biscoumacetate,Possible,1,1
+Food::FOOD00206,Compound::DB08794,Ethyl Biscoumacetate,Possible,1,1
+Food::FOOD00618,Compound::DB01077,Etidronic Acid,Possible,1,1
+Food::FOOD00854,Compound::DB00749,Etodolac,Possible,1,1
+Food::FOOD00854,Compound::DB00294,Etonogestrel,Possible,1,1
+Food::FOOD00908,Compound::DB00294,Etonogestrel,Possible,1,1
+Food::FOOD00291,Compound::DB00773,Etoposide,Possible,1,1
+Food::FOOD00079,Compound::DB00773,Etoposide,Possible,1,1
+Food::FOOD00061,Compound::DB00773,Etoposide,Possible,1,1
+Food::FOOD00206,Compound::DB00773,Etoposide,Possible,1,1
+Food::FOOD00256,Compound::DB00773,Etoposide,Negative,3,1
+Food::FOOD00963,Compound::DB00773,Etoposide,Possible,1,1
+Food::FOOD00388,Compound::DB00773,Etoposide,Possible,1,1
+Food::FOOD00256,Compound::DB06414,Etravirine,Positive,2,1
+Food::FOOD00854,Compound::DB00926,Etretinate,Possible,1,1
+Food::FOOD00256,Compound::DB01590,Everolimus,Positive,2,1
+Food::FOOD00388,Compound::DB01590,Everolimus,Harmful,4,1
+Food::FOOD00854,Compound::DB00927,Famotidine,Possible,1,1
+Food::FOOD00908,Compound::DB00927,Famotidine,Possible,1,1
+Food::FOOD00854,Compound::DB00949,Felbamate,Possible,1,1
+Food::FOOD00854,Compound::DB01023,Felodipine,Possible,1,1
+Food::FOOD00256,Compound::DB01023,Felodipine,Positive,2,1
+Food::FOOD00054,Compound::DB01023,Felodipine,Possible,1,1
+Food::FOOD00053,Compound::DB01023,Felodipine,Positive,2,1
+Food::FOOD00911,Compound::DB01023,Felodipine,Possible,1,1
+Food::FOOD00854,Compound::DB00573,Fenoprofen,Possible,1,1
+Food::FOOD00854,Compound::DB00813,Fentanyl,Possible,1,1
+Food::FOOD00618,Compound::DB13949,Ferric Cation,Possible,1,1
+Food::FOOD00105,Compound::DB14491,Ferrous Fumarate,Possible,1,1
+Food::FOOD00027,Compound::DB14491,Ferrous Fumarate,Positive,2,1
+Food::FOOD00216,Compound::DB14491,Ferrous Fumarate,Positive,2,1
+Food::FOOD00204,Compound::DB14491,Ferrous Fumarate,Positive,2,1
+Food::FOOD00908,Compound::DB14491,Ferrous Fumarate,Possible,1,1
+Food::FOOD00369,Compound::DB14491,Ferrous Fumarate,Positive,2,1
+Food::FOOD00004,Compound::DB14491,Ferrous Fumarate,Positive,2,1
+Food::FOOD00054,Compound::DB14491,Ferrous Fumarate,Positive,2,1
+Food::FOOD00053,Compound::DB14491,Ferrous Fumarate,Positive,2,1
+Food::FOOD00618,Compound::DB14491,Ferrous Fumarate,Possible,1,1
+Food::FOOD00918,Compound::DB14491,Ferrous Fumarate,Possible,1,1
+Food::FOOD00056,Compound::DB14491,Ferrous Fumarate,Possible,1,1
+Food::FOOD00543,Compound::DB14491,Ferrous Fumarate,Positive,2,1
+Food::FOOD00548,Compound::DB14491,Ferrous Fumarate,Positive,2,1
+Food::FOOD00083,Compound::DB14491,Ferrous Fumarate,Positive,2,1
+Food::FOOD00057,Compound::DB14491,Ferrous Fumarate,Possible,1,1
+Food::FOOD00105,Compound::DB14488,Ferrous Gluconate,Positive,2,1
+Food::FOOD00027,Compound::DB14488,Ferrous Gluconate,Positive,2,1
+Food::FOOD00216,Compound::DB14488,Ferrous Gluconate,Positive,2,1
+Food::FOOD00204,Compound::DB14488,Ferrous Gluconate,Positive,2,1
+Food::FOOD00908,Compound::DB14488,Ferrous Gluconate,Possible,1,1
+Food::FOOD00369,Compound::DB14488,Ferrous Gluconate,Positive,2,1
+Food::FOOD00004,Compound::DB14488,Ferrous Gluconate,Positive,2,1
+Food::FOOD00054,Compound::DB14488,Ferrous Gluconate,Positive,2,1
+Food::FOOD00053,Compound::DB14488,Ferrous Gluconate,Positive,2,1
+Food::FOOD00618,Compound::DB14488,Ferrous Gluconate,Possible,1,1
+Food::FOOD00543,Compound::DB14488,Ferrous Gluconate,Positive,2,1
+Food::FOOD00548,Compound::DB14488,Ferrous Gluconate,Positive,2,1
+Food::FOOD00083,Compound::DB14488,Ferrous Gluconate,Positive,2,1
+Food::FOOD00105,Compound::DB13257,Ferrous Sulfate,Positive,2,1
+Food::FOOD00027,Compound::DB13257,Ferrous Sulfate,Positive,2,1
+Food::FOOD00216,Compound::DB13257,Ferrous Sulfate,Positive,2,1
+Food::FOOD00204,Compound::DB13257,Ferrous Sulfate,Positive,2,1
+Food::FOOD00908,Compound::DB13257,Ferrous Sulfate,Negative,3,1
+Food::FOOD00369,Compound::DB13257,Ferrous Sulfate,Positive,2,1
+Food::FOOD00004,Compound::DB13257,Ferrous Sulfate,Positive,2,1
+Food::FOOD00054,Compound::DB13257,Ferrous Sulfate,Positive,2,1
+Food::FOOD00053,Compound::DB13257,Ferrous Sulfate,Positive,2,1
+Food::FOOD00618,Compound::DB13257,Ferrous Sulfate,Possible,1,1
+Food::FOOD00543,Compound::DB13257,Ferrous Sulfate,Positive,2,1
+Food::FOOD00548,Compound::DB13257,Ferrous Sulfate,Positive,2,1
+Food::FOOD00083,Compound::DB13257,Ferrous Sulfate,Positive,2,1
+Food::FOOD00193,Compound::DB07767,Ferulic Acid,Possible,1,1
+Food::FOOD00008,Compound::DB07767,Ferulic Acid,Possible,1,1
+Food::FOOD00206,Compound::DB07767,Ferulic Acid,Possible,1,1
+Food::FOOD00105,Compound::DB00950,Fexofenadine,Negative,3,1
+Food::FOOD00204,Compound::DB00950,Fexofenadine,Possible,1,1
+Food::FOOD00192,Compound::DB00950,Fexofenadine,Possible,1,1
+Food::FOOD00217,Compound::DB00950,Fexofenadine,Possible,1,1
+Food::FOOD00008,Compound::DB00950,Fexofenadine,Possible,1,1
+Food::FOOD00256,Compound::DB00950,Fexofenadine,Negative,3,1
+Food::FOOD00908,Compound::DB00950,Fexofenadine,Negative,3,1
+Food::FOOD00054,Compound::DB00950,Fexofenadine,Negative,3,1
+Food::FOOD00918,Compound::DB00950,Fexofenadine,Negative,3,1
+Food::FOOD00056,Compound::DB00950,Fexofenadine,Negative,3,1
+Food::FOOD00139,Compound::DB00950,Fexofenadine,Possible,1,1
+Food::FOOD00022,Compound::DB00950,Fexofenadine,Possible,1,1
+Food::FOOD00057,Compound::DB00950,Fexofenadine,Negative,3,1
+Food::FOOD00854,Compound::DB03147,Flavin Adenine Dinucleotide,Possible,1,1
+Food::FOOD00854,Compound::DB03247,Flavin Mononucleotide,Possible,1,1
+Food::FOOD00908,Compound::DB04576,Fleroxacin,Possible,1,1
+Food::FOOD00618,Compound::DB04576,Fleroxacin,Possible,1,1
+Food::FOOD00854,Compound::DB04908,Flibanserin,Possible,1,1
+Food::FOOD00256,Compound::DB04908,Flibanserin,Positive,2,1
+Food::FOOD00193,Compound::DB08976,Floctafenine,Possible,1,1
+Food::FOOD00008,Compound::DB08976,Floctafenine,Possible,1,1
+Food::FOOD00206,Compound::DB08976,Floctafenine,Possible,1,1
+Food::FOOD00854,Compound::DB01567,Fludiazepam,Possible,1,1
+Food::FOOD00908,Compound::DB01567,Fludiazepam,Possible,1,1
+Food::FOOD00256,Compound::DB01567,Fludiazepam,Possible,1,1
+Food::FOOD00647,Compound::DB00687,Fludrocortisone,Possible,1,1
+Food::FOOD00193,Compound::DB13136,Fluindione,Possible,1,1
+Food::FOOD00008,Compound::DB13136,Fluindione,Possible,1,1
+Food::FOOD00206,Compound::DB13136,Fluindione,Possible,1,1
+Food::FOOD00854,Compound::DB04841,Flunarizine,Possible,1,1
+Food::FOOD00854,Compound::DB01544,Flunitrazepam,Possible,1,1
+Food::FOOD00908,Compound::DB01544,Flunitrazepam,Possible,1,1
+Food::FOOD00256,Compound::DB01544,Flunitrazepam,Possible,1,1
+Food::FOOD00908,Compound::DB00544,Fluorouracil,Possible,1,1
+Food::FOOD00069,Compound::DB00544,Fluorouracil,Possible,1,1
+Food::FOOD00548,Compound::DB00544,Fluorouracil,Possible,1,1
+Food::FOOD00854,Compound::DB00472,Fluoxetine,Possible,1,1
+Food::FOOD00854,Compound::DB00875,Flupentixol,Possible,1,1
+Food::FOOD00854,Compound::DB00623,Fluphenazine,Possible,1,1
+Food::FOOD00854,Compound::DB00690,Flurazepam,Possible,1,1
+Food::FOOD00854,Compound::DB00712,Flurbiprofen,Possible,1,1
+Food::FOOD00854,Compound::DB04842,Fluspirilene,Possible,1,1
+Food::FOOD00256,Compound::DB00176,Fluvoxamine,Positive,2,1
+Food::FOOD00907,Compound::DB00158,Folic Acid,Negative,3,1
+Food::FOOD00908,Compound::DB00158,Folic Acid,Negative,3,1
+Food::FOOD00854,Compound::DB01213,Fomepizole,Positive,2,1
+Food::FOOD00193,Compound::DB00569,Fondaparinux,Possible,1,1
+Food::FOOD00008,Compound::DB00569,Fondaparinux,Possible,1,1
+Food::FOOD00206,Compound::DB00569,Fondaparinux,Possible,1,1
+Food::FOOD00256,Compound::DB06717,Fosaprepitant,Positive,2,1
+Food::FOOD00428,Compound::DB00492,Fosinopril,Possible,1,1
+Food::FOOD00040,Compound::DB00492,Fosinopril,Possible,1,1
+Food::FOOD00079,Compound::DB00492,Fosinopril,Possible,1,1
+Food::FOOD00498,Compound::DB00492,Fosinopril,Possible,1,1
+Food::FOOD00854,Compound::DB01320,Fosphenytoin,Positive,2,1
+Food::FOOD00854,Compound::DB00695,Furosemide,Possible,1,1
+Food::FOOD00079,Compound::DB00695,Furosemide,Possible,1,1
+Food::FOOD00498,Compound::DB00695,Furosemide,Possible,1,1
+Food::FOOD00256,Compound::DB15149,Futibatinib,Positive,2,1
+Food::FOOD00854,Compound::DB08872,Gabapentin Enacarbil,Positive,2,1
+Food::FOOD00193,Compound::DB12831,Gabexate,Possible,1,1
+Food::FOOD00008,Compound::DB12831,Gabexate,Possible,1,1
+Food::FOOD00206,Compound::DB12831,Gabexate,Possible,1,1
+Food::FOOD00854,Compound::DB05087,Ganaxolone,Possible,1,1
+Food::FOOD00256,Compound::DB00317,Gefitinib,Positive,2,1
+Food::FOOD00015,Compound::DB00441,Gemcitabine,Possible,1,1
+Food::FOOD00245,Compound::DB00798,Gentamicin,Possible,1,1
+Food::FOOD00990,Compound::DB00798,Gentamicin,Possible,1,1
+Food::FOOD00171,Compound::DB00798,Gentamicin,Possible,1,1
+Food::FOOD00008,Compound::DB00798,Gentamicin,Possible,1,1
+Food::FOOD00140,Compound::DB00798,Gentamicin,Possible,1,1
+Food::FOOD00264,Compound::DB00798,Gentamicin,Possible,1,1
+Food::FOOD00085,Compound::DB00798,Gentamicin,Possible,1,1
+Food::FOOD00914,Compound::DB00798,Gentamicin,Possible,1,1
+Food::FOOD00158,Compound::DB00798,Gentamicin,Possible,1,1
+Food::FOOD00072,Compound::DB00798,Gentamicin,Possible,1,1
+Food::FOOD00193,Compound::DB01381,Ginkgo Biloba,Possible,1,1
+Food::FOOD00008,Compound::DB01381,Ginkgo Biloba,Possible,1,1
+Food::FOOD00206,Compound::DB01381,Ginkgo Biloba,Possible,1,1
+Food::FOOD00115,Compound::DB01016,Glibenclamide,Possible,1,1
+Food::FOOD00118,Compound::DB00222,Glimepiride,Possible,1,1
+Food::FOOD00065,Compound::DB01296,Glucosamine,Possible,1,1
+Food::FOOD00854,Compound::DB01437,Glutethimide,Possible,1,1
+Food::FOOD00121,Compound::DB01016,Glyburide,Possible,1,1
+Food::FOOD00908,Compound::DB00365,Grepafloxacin,Possible,1,1
+Food::FOOD00854,Compound::DB00400,Griseofulvin,Possible,1,1
+Food::FOOD00178,Compound::DB00400,Griseofulvin,Possible,1,1
+Food::FOOD00256,Compound::DB01218,Halofantrine,Positive,2,1
+Food::FOOD00854,Compound::DB00502,Haloperidol,Possible,1,1
+Food::FOOD00193,Compound::DB01109,Heparin,Possible,1,1
+Food::FOOD00008,Compound::DB01109,Heparin,Possible,1,1
+Food::FOOD00206,Compound::DB01109,Heparin,Possible,1,1
+Food::FOOD00854,Compound::DB00999,Hydrochlorothiazide,Possible,1,1
+Food::FOOD00079,Compound::DB00999,Hydrochlorothiazide,Possible,1,1
+Food::FOOD00447,Compound::DB00999,Hydrochlorothiazide,Possible,1,1
+Food::FOOD00723,Compound::DB00999,Hydrochlorothiazide,Possible,1,1
+Food::FOOD00498,Compound::DB00999,Hydrochlorothiazide,Possible,1,1
+Food::FOOD00854,Compound::DB00956,Hydrocodone,Possible,1,1
+Food::FOOD00854,Compound::DB00741,Hydrocortisone,Possible,1,1
+Food::FOOD00079,Compound::DB00774,Hydroflumethiazide,Possible,1,1
+Food::FOOD00498,Compound::DB00774,Hydroflumethiazide,Possible,1,1
+Food::FOOD00854,Compound::DB00327,Hydromorphone,Possible,1,1
+Food::FOOD00854,Compound::DB00557,Hydroxyzine,Possible,1,1
+Food::FOOD00256,Compound::DB00557,Hydroxyzine,Positive,2,1
+Food::FOOD00256,Compound::DB09053,Ibrutinib,Positive,2,1
+Food::FOOD00854,Compound::DB01050,Ibuprofen,Possible,1,1
+Food::FOOD00909,Compound::DB01050,Ibuprofen,Possible,1,1
+Food::FOOD00256,Compound::DB09054,Idelalisib,Positive,2,1
+Food::FOOD00193,Compound::DB06406,Idraparinux,Possible,1,1
+Food::FOOD00008,Compound::DB06406,Idraparinux,Possible,1,1
+Food::FOOD00206,Compound::DB06406,Idraparinux,Possible,1,1
+Food::FOOD00854,Compound::DB01181,Ifosfamide,Possible,1,1
+Food::FOOD00256,Compound::DB01181,Ifosfamide,Possible,1,1
+Food::FOOD00054,Compound::DB01181,Ifosfamide,Possible,1,1
+Food::FOOD00485,Compound::DB01181,Ifosfamide,Possible,1,1
+Food::FOOD00193,Compound::DB01088,Iloprost,Possible,1,1
+Food::FOOD00008,Compound::DB01088,Iloprost,Possible,1,1
+Food::FOOD00206,Compound::DB01088,Iloprost,Possible,1,1
+Food::FOOD00256,Compound::DB00619,Imatinib,Positive,2,1
+Food::FOOD00908,Compound::DB00619,Imatinib,Possible,1,1
+Food::FOOD00854,Compound::DB00458,Imipramine,Possible,1,1
+Food::FOOD00908,Compound::DB00458,Imipramine,Possible,1,1
+Food::FOOD00854,Compound::DB00808,Indapamide,Possible,1,1
+Food::FOOD00079,Compound::DB00808,Indapamide,Possible,1,1
+Food::FOOD00498,Compound::DB00808,Indapamide,Possible,1,1
+Food::FOOD00918,Compound::DB00224,Indinavir,Positive,2,1
+Food::FOOD00056,Compound::DB00224,Indinavir,Positive,2,1
+Food::FOOD00057,Compound::DB00224,Indinavir,Positive,2,1
+Food::FOOD00854,Compound::DB00328,Indomethacin,Possible,1,1
+Food::FOOD00039,Compound::DB00328,Indomethacin,Possible,1,1
+Food::FOOD00008,Compound::DB00328,Indomethacin,Possible,1,1
+Food::FOOD00178,Compound::DB00328,Indomethacin,Possible,1,1
+Food::FOOD00256,Compound::DB11886,Infigratinib,Positive,2,1
+Food::FOOD00854,Compound::DB09564,Insulin Degludec,Possible,1,1
+Food::FOOD00854,Compound::DB01307,Insulin Detemir,Possible,1,1
+Food::FOOD00854,Compound::DB01309,Insulin Glulisine,Possible,1,1
+Food::FOOD00854,Compound::DB00030,Insulin Human,Possible,1,1
+Food::FOOD00854,Compound::DB00071,Insulin Pork,Possible,1,1
+Food::FOOD00854,Compound::DB00034,Interferon Alfa-2A,Possible,1,1
+Food::FOOD00854,Compound::DB00105,Interferon Alfa-2B,Possible,1,1
+Food::FOOD00854,Compound::DB00011,Interferon Alfa-N1,Possible,1,1
+Food::FOOD00854,Compound::DB00060,Interferon Beta-1A,Possible,1,1
+Food::FOOD00854,Compound::DB00068,Interferon Beta-1B,Possible,1,1
+Food::FOOD00854,Compound::DB00033,Interferon Gamma-1B,Possible,1,1
+Food::FOOD00034,Compound::DB05382,Iodine,Possible,1,1
+Food::FOOD00851,Compound::DB05382,Iodine,Possible,1,1
+Food::FOOD00323,Compound::DB05382,Iodine,Possible,1,1
+Food::FOOD00031,Compound::DB05382,Iodine,Possible,1,1
+Food::FOOD00085,Compound::DB05382,Iodine,Possible,1,1
+Food::FOOD00854,Compound::DB01247,Isocarboxazid,Possible,1,1
+Food::FOOD00566,Compound::DB01247,Isocarboxazid,Possible,1,1
+Food::FOOD00130,Compound::DB01247,Isocarboxazid,Possible,1,1
+Food::FOOD00208,Compound::DB01247,Isocarboxazid,Possible,1,1
+Food::FOOD00613,Compound::DB01247,Isocarboxazid,Possible,1,1
+Food::FOOD00617,Compound::DB01247,Isocarboxazid,Possible,1,1
+Food::FOOD00923,Compound::DB01247,Isocarboxazid,Possible,1,1
+Food::FOOD00197,Compound::DB01247,Isocarboxazid,Possible,1,1
+Food::FOOD00908,Compound::DB01247,Isocarboxazid,Possible,1,1
+Food::FOOD00612,Compound::DB01247,Isocarboxazid,Possible,1,1
+Food::FOOD00292,Compound::DB01247,Isocarboxazid,Possible,1,1
+Food::FOOD00424,Compound::DB01247,Isocarboxazid,Possible,1,1
+Food::FOOD00362,Compound::DB01247,Isocarboxazid,Possible,1,1
+Food::FOOD00633,Compound::DB01247,Isocarboxazid,Possible,1,1
+Food::FOOD00630,Compound::DB01247,Isocarboxazid,Possible,1,1
+Food::FOOD00917,Compound::DB01247,Isocarboxazid,Possible,1,1
+Food::FOOD00620,Compound::DB01247,Isocarboxazid,Possible,1,1
+Food::FOOD00043,Compound::DB00951,Isoniazid,Possible,1,1
+Food::FOOD00617,Compound::DB00951,Isoniazid,Possible,1,1
+Food::FOOD00171,Compound::DB00951,Isoniazid,Possible,1,1
+Food::FOOD00008,Compound::DB00951,Isoniazid,Possible,1,1
+Food::FOOD00206,Compound::DB00951,Isoniazid,Possible,1,1
+Food::FOOD00911,Compound::DB00951,Isoniazid,Possible,1,1
+Food::FOOD00476,Compound::DB00951,Isoniazid,Possible,1,1
+Food::FOOD00485,Compound::DB00951,Isoniazid,Possible,1,1
+Food::FOOD00514,Compound::DB00951,Isoniazid,Possible,1,1
+Food::FOOD00511,Compound::DB00951,Isoniazid,Possible,1,1
+Food::FOOD00305,Compound::DB00951,Isoniazid,Possible,1,1
+Food::FOOD00309,Compound::DB01064,Isoprenaline,Possible,1,1
+Food::FOOD00318,Compound::DB01064,Isoprenaline,Possible,1,1
+Food::FOOD00854,Compound::DB00982,Isotretinoin,Possible,1,1
+Food::FOOD00200,Compound::DB00982,Isotretinoin,Possible,1,1
+Food::FOOD00256,Compound::DB09083,Ivabradine,Positive,2,1
+Food::FOOD00256,Compound::DB08820,Ivacaftor,Positive,2,1
+Food::FOOD00256,Compound::DB14568,Ivosidenib,Positive,2,1
+Food::FOOD00256,Compound::DB04845,Ixabepilone,Positive,2,1
+Food::FOOD00854,Compound::DB01221,Ketamine,Possible,1,1
+Food::FOOD00854,Compound::DB01026,Ketoconazole,Possible,1,1
+Food::FOOD00159,Compound::DB00465,Ketorolac,Possible,1,1
+Food::FOOD00256,Compound::DB00448,Lansoprazole,Positive,2,1
+Food::FOOD00256,Compound::DB01259,Lapatinib,Positive,2,1
+Food::FOOD00908,Compound::DB01259,Lapatinib,Possible,1,1
+Food::FOOD00854,Compound::DB11732,Lasmiditan,Possible,1,1
+Food::FOOD00256,Compound::DB12825,Lefamulin,Positive,2,1
+Food::FOOD00428,Compound::DB09078,Lenvatinib,Possible,1,1
+Food::FOOD00040,Compound::DB09078,Lenvatinib,Possible,1,1
+Food::FOOD00008,Compound::DB00001,Lepirudin,Possible,1,1
+Food::FOOD00206,Compound::DB00001,Lepirudin,Possible,1,1
+Food::FOOD00854,Compound::DB00528,Lercanidipine,Possible,1,1
+Food::FOOD00256,Compound::DB00528,Lercanidipine,Positive,2,1
+Food::FOOD00193,Compound::DB11984,Letaxaban,Possible,1,1
+Food::FOOD00008,Compound::DB11984,Letaxaban,Possible,1,1
+Food::FOOD00206,Compound::DB11984,Letaxaban,Possible,1,1
+Food::FOOD00854,Compound::DB06282,Levocetirizine Dihydrochloride,Possible,1,1
+Food::FOOD00547,Compound::DB01235,Levodopa,Negative,3,1
+Food::FOOD00908,Compound::DB01235,Levodopa,Possible,1,1
+Food::FOOD00626,Compound::DB01235,Levodopa,Negative,3,1
+Food::FOOD00004,Compound::DB01235,Levodopa,Possible,1,1
+Food::FOOD00054,Compound::DB01235,Levodopa,Possible,1,1
+Food::FOOD00918,Compound::DB01137,Levofloxacin,Positive,2,1
+Food::FOOD00056,Compound::DB01137,Levofloxacin,Positive,2,1
+Food::FOOD00057,Compound::DB01137,Levofloxacin,Positive,2,1
+Food::FOOD00854,Compound::DB05667,Levoketoconazole,Possible,1,1
+Food::FOOD00854,Compound::DB08918,Levomilnacipran,Positive,2,1
+Food::FOOD00193,Compound::DB08918,Levomilnacipran,Positive,2,1
+Food::FOOD00008,Compound::DB08918,Levomilnacipran,Positive,2,1
+Food::FOOD00206,Compound::DB08918,Levomilnacipran,Positive,2,1
+Food::FOOD00256,Compound::DB08918,Levomilnacipran,Positive,2,1
+Food::FOOD00854,Compound::DB00854,Levorphanol,Possible,1,1
+Food::FOOD00341,Compound::DB00451,Levothyroxine,Negative,3,1
+Food::FOOD00085,Compound::DB00451,Levothyroxine,Negative,3,1
+Food::FOOD00608,Compound::DB00451,Levothyroxine,Negative,3,1
+Food::FOOD00854,Compound::DB00431,Lindane,Possible,1,1
+Food::FOOD00256,Compound::DB01583,Liotrix,Possible,1,1
+Food::FOOD00428,Compound::DB00722,Lisinopril,Possible,1,1
+Food::FOOD00040,Compound::DB00722,Lisinopril,Possible,1,1
+Food::FOOD00908,Compound::DB00722,Lisinopril,Negative,3,1
+Food::FOOD00626,Compound::DB00722,Lisinopril,Positive,2,1
+Food::FOOD00854,Compound::DB14509,Lithium Carbonate,Negative,3,1
+Food::FOOD00908,Compound::DB14509,Lithium Carbonate,Positive,2,1
+Food::FOOD00854,Compound::DB14507,Lithium Citrate,Possible,1,1
+Food::FOOD00908,Compound::DB14507,Lithium Citrate,Possible,1,1
+Food::FOOD00854,Compound::DB04948,Lofexidine,Possible,1,1
+Food::FOOD00256,Compound::DB08827,Lomitapide,Positive,2,1
+Food::FOOD00256,Compound::DB06448,Lonafarnib,Positive,2,1
+Food::FOOD00256,Compound::DB01601,Lopinavir,Possible,1,1
+Food::FOOD00854,Compound::DB00455,Loratadine,Positive,2,1
+Food::FOOD00388,Compound::DB00455,Loratadine,Possible,1,1
+Food::FOOD00854,Compound::DB00186,Lorazepam,Possible,1,1
+Food::FOOD00908,Compound::DB00186,Lorazepam,Possible,1,1
+Food::FOOD00291,Compound::DB00678,Losartan,Possible,1,1
+Food::FOOD00061,Compound::DB00678,Losartan,Possible,1,1
+Food::FOOD00206,Compound::DB00678,Losartan,Possible,1,1
+Food::FOOD00723,Compound::DB00678,Losartan,Possible,1,1
+Food::FOOD00388,Compound::DB00678,Losartan,Negative,3,1
+Food::FOOD00447,Compound::DB00678,Losartan,Possible,1,1
+Food::FOOD00119,Compound::DB00678,Losartan,Possible,1,1
+Food::FOOD00256,Compound::DB00227,Lovastatin,Positive,2,1
+Food::FOOD00854,Compound::DB00408,Loxapine,Possible,1,1
+Food::FOOD00256,Compound::DB09212,Loxoprofen,Positive,2,1
+Food::FOOD00256,Compound::DB06077,Lumateperone,Positive,2,1
+Food::FOOD00256,Compound::DB06708,Lumefantrine,Positive,2,1
+Food::FOOD00256,Compound::DB08815,Lurasidone,Positive,2,1
+Food::FOOD00105,Compound::DB00137,Lutein,Positive,2,1
+Food::FOOD00027,Compound::DB00137,Lutein,Positive,2,1
+Food::FOOD00216,Compound::DB00137,Lutein,Positive,2,1
+Food::FOOD00204,Compound::DB00137,Lutein,Positive,2,1
+Food::FOOD00908,Compound::DB00137,Lutein,Positive,2,1
+Food::FOOD00369,Compound::DB00137,Lutein,Positive,2,1
+Food::FOOD00004,Compound::DB00137,Lutein,Positive,2,1
+Food::FOOD00054,Compound::DB00137,Lutein,Positive,2,1
+Food::FOOD00053,Compound::DB00137,Lutein,Positive,2,1
+Food::FOOD00543,Compound::DB00137,Lutein,Positive,2,1
+Food::FOOD00548,Compound::DB00137,Lutein,Positive,2,1
+Food::FOOD00083,Compound::DB00137,Lutein,Positive,2,1
+Food::FOOD00081,Compound::DB08932,Macitentan,Possible,1,1
+Food::FOOD00854,Compound::DB08938,Magaldrate,Possible,1,1
+Food::FOOD00908,Compound::DB00934,Maprotiline,Possible,1,1
+Food::FOOD00854,Compound::DB00657,Mecamylamine,Possible,1,1
+Food::FOOD00854,Compound::DB00737,Meclizine,Possible,1,1
+Food::FOOD00854,Compound::DB00939,Meclofenamic Acid,Possible,1,1
+Food::FOOD00854,Compound::DB00784,Mefenamic Acid,Possible,1,1
+Food::FOOD00854,Compound::DB00358,Mefloquine,Possible,1,1
+Food::FOOD00854,Compound::DB01065,Melatonin,Negative,3,1
+Food::FOOD00291,Compound::DB01065,Melatonin,Possible,1,1
+Food::FOOD00061,Compound::DB01065,Melatonin,Possible,1,1
+Food::FOOD00206,Compound::DB01065,Melatonin,Possible,1,1
+Food::FOOD00388,Compound::DB01065,Melatonin,Possible,1,1
+Food::FOOD00004,Compound::DB01065,Melatonin,Possible,1,1
+Food::FOOD00054,Compound::DB01065,Melatonin,Possible,1,1
+Food::FOOD00854,Compound::DB00454,Meperidine,Possible,1,1
+Food::FOOD00854,Compound::DB00371,Meprobamate,Possible,1,1
+Food::FOOD00854,Compound::DB06691,Mepyramine,Possible,1,1
+Food::FOOD00618,Compound::DB01033,Mercaptopurine,Harmful,4,1
+Food::FOOD00854,Compound::DB00660,Metaxalone,Possible,1,1
+Food::FOOD00854,Compound::DB00331,Metformin,Possible,1,1
+Food::FOOD00134,Compound::DB00331,Metformin,Negative,3,1
+Food::FOOD00151,Compound::DB00331,Metformin,Possible,1,1
+Food::FOOD00854,Compound::DB00333,Methadone,Possible,1,1
+Food::FOOD00256,Compound::DB00333,Methadone,Possible,1,1
+Food::FOOD00854,Compound::DB00423,Methocarbamol,Positive,2,1
+Food::FOOD00854,Compound::DB00474,Methohexital,Possible,1,1
+Food::FOOD00854,Compound::DB00563,Methotrexate,Positive,2,1
+Food::FOOD00618,Compound::DB00563,Methotrexate,Negative,3,1
+Food::FOOD00854,Compound::DB01028,Methoxyflurane,Possible,1,1
+Food::FOOD00854,Compound::DB05246,Methsuximide,Possible,1,1
+Food::FOOD00256,Compound::DB00353,Methylergometrine,Positive,2,1
+Food::FOOD00854,Compound::DB00422,Methylphenidate,Possible,1,1
+Food::FOOD00854,Compound::DB00959,Methylprednisolone,Possible,1,1
+Food::FOOD00256,Compound::DB00959,Methylprednisolone,Positive,2,1
+Food::FOOD00854,Compound::DB01233,Metoclopramide,Possible,1,1
+Food::FOOD00854,Compound::DB00264,Metoprolol,Positive,2,1
+Food::FOOD00134,Compound::DB00264,Metoprolol,Positive,2,1
+Food::FOOD00186,Compound::DB00264,Metoprolol,Possible,1,1
+Food::FOOD00099,Compound::DB00264,Metoprolol,Possible,1,1
+Food::FOOD00854,Compound::DB00916,Metronidazole,Possible,1,1
+Food::FOOD00256,Compound::DB00916,Metronidazole,Possible,1,1
+Food::FOOD00151,Compound::DB00916,Metronidazole,Possible,1,1
+Food::FOOD00854,Compound::DB00765,Metyrosine,Possible,1,1
+Food::FOOD00854,Compound::DB06693,Mevastatin,Possible,1,1
+Food::FOOD00256,Compound::DB06693,Mevastatin,Possible,1,1
+Food::FOOD00854,Compound::DB00683,Midazolam,Possible,1,1
+Food::FOOD00291,Compound::DB00683,Midazolam,Negative,3,1
+Food::FOOD00117,Compound::DB00683,Midazolam,Possible,1,1
+Food::FOOD00163,Compound::DB00683,Midazolam,Possible,1,1
+Food::FOOD00079,Compound::DB00683,Midazolam,Possible,1,1
+Food::FOOD00061,Compound::DB00683,Midazolam,Negative,3,1
+Food::FOOD00171,Compound::DB00683,Midazolam,Possible,1,1
+Food::FOOD00206,Compound::DB00683,Midazolam,Negative,3,1
+Food::FOOD00256,Compound::DB00683,Midazolam,Possible,1,1
+Food::FOOD00390,Compound::DB00683,Midazolam,Possible,1,1
+Food::FOOD00106,Compound::DB00683,Midazolam,Possible,1,1
+Food::FOOD00914,Compound::DB00683,Midazolam,Possible,1,1
+Food::FOOD00256,Compound::DB06595,Midostaurin,Positive,2,1
+Food::FOOD00256,Compound::DB00834,Mifepristone,Positive,2,1
+Food::FOOD00854,Compound::DB04896,Milnacipran,Possible,1,1
+Food::FOOD00854,Compound::DB05528,Mipomersen,Possible,1,1
+Food::FOOD00854,Compound::DB00370,Mirtazapine,Possible,1,1
+Food::FOOD00854,Compound::DB01171,Moclobemide,Possible,1,1
+Food::FOOD00208,Compound::DB01171,Moclobemide,Possible,1,1
+Food::FOOD00613,Compound::DB01171,Moclobemide,Possible,1,1
+Food::FOOD00617,Compound::DB01171,Moclobemide,Possible,1,1
+Food::FOOD00923,Compound::DB01171,Moclobemide,Possible,1,1
+Food::FOOD00612,Compound::DB01171,Moclobemide,Possible,1,1
+Food::FOOD00633,Compound::DB01171,Moclobemide,Possible,1,1
+Food::FOOD00630,Compound::DB01171,Moclobemide,Possible,1,1
+Food::FOOD00917,Compound::DB01171,Moclobemide,Possible,1,1
+Food::FOOD00620,Compound::DB01171,Moclobemide,Possible,1,1
+Food::FOOD00428,Compound::DB00691,Moexipril,Possible,1,1
+Food::FOOD00040,Compound::DB00691,Moexipril,Possible,1,1
+Food::FOOD00079,Compound::DB00691,Moexipril,Possible,1,1
+Food::FOOD00498,Compound::DB00691,Moexipril,Possible,1,1
+Food::FOOD00854,Compound::DB01618,Molindone,Possible,1,1
+Food::FOOD00012,Compound::DB00471,Montelukast,Positive,2,1
+Food::FOOD00854,Compound::DB00295,Morphine,Possible,1,1
+Food::FOOD00854,Compound::DB00461,Nabumetone,Possible,1,1
+Food::FOOD00908,Compound::DB01203,Nadolol,Negative,3,1
+Food::FOOD00193,Compound::DB08813,Nadroparin,Possible,1,1
+Food::FOOD00008,Compound::DB08813,Nadroparin,Possible,1,1
+Food::FOOD00206,Compound::DB08813,Nadroparin,Possible,1,1
+Food::FOOD00193,Compound::DB12598,Nafamostat,Possible,1,1
+Food::FOOD00008,Compound::DB12598,Nafamostat,Possible,1,1
+Food::FOOD00206,Compound::DB12598,Nafamostat,Possible,1,1
+Food::FOOD00854,Compound::DB00666,Nafarelin,Possible,1,1
+Food::FOOD00854,Compound::DB00844,Nalbuphine,Possible,1,1
+Food::FOOD00256,Compound::DB09049,Naloxegol,Positive,2,1
+Food::FOOD00854,Compound::DB01149,Nefazodone,Possible,1,1
+Food::FOOD00256,Compound::DB11828,Neratinib,Positive,2,1
+Food::FOOD00256,Compound::DB09048,Netupitant,Positive,2,1
+Food::FOOD00854,Compound::DB00238,Nevirapine,Possible,1,1
+Food::FOOD00139,Compound::DB00238,Nevirapine,Positive,2,1
+Food::FOOD00022,Compound::DB00238,Nevirapine,Positive,2,1
+Food::FOOD00854,Compound::DB00627,Niacin,Possible,1,1
+Food::FOOD00256,Compound::DB00622,Nicardipine,Positive,2,1
+Food::FOOD00908,Compound::DB00622,Nicardipine,Possible,1,1
+Food::FOOD00291,Compound::DB01115,Nifedipine,Possible,1,1
+Food::FOOD00079,Compound::DB01115,Nifedipine,Possible,1,1
+Food::FOOD00192,Compound::DB01115,Nifedipine,Possible,1,1
+Food::FOOD00217,Compound::DB01115,Nifedipine,Possible,1,1
+Food::FOOD00008,Compound::DB01115,Nifedipine,Possible,1,1
+Food::FOOD00206,Compound::DB01115,Nifedipine,Possible,1,1
+Food::FOOD00256,Compound::DB01115,Nifedipine,Positive,2,1
+Food::FOOD00963,Compound::DB01115,Nifedipine,Possible,1,1
+Food::FOOD00854,Compound::DB11820,Nifurtimox,Possible,1,1
+Food::FOOD00291,Compound::DB00393,Nimodipine,Possible,1,1
+Food::FOOD00256,Compound::DB00393,Nimodipine,Positive,2,1
+Food::FOOD00908,Compound::DB09079,Nintedanib,Negative,3,1
+Food::FOOD00256,Compound::DB00401,Nisoldipine,Positive,2,1
+Food::FOOD00079,Compound::DB00348,Nitisinone,Possible,1,1
+Food::FOOD00854,Compound::DB01595,Nitrazepam,Possible,1,1
+Food::FOOD00908,Compound::DB01595,Nitrazepam,Possible,1,1
+Food::FOOD00256,Compound::DB01054,Nitrendipine,Positive,2,1
+Food::FOOD00151,Compound::DB01054,Nitrendipine,Possible,1,1
+Food::FOOD00854,Compound::DB00727,Nitroglycerin,Possible,1,1
+Food::FOOD00388,Compound::DB01059,Norfloxacin,Possible,1,1
+Food::FOOD00618,Compound::DB01059,Norfloxacin,Negative,3,1
+Food::FOOD00256,Compound::DB09389,Norgestrel,Positive,2,1
+Food::FOOD00854,Compound::DB11609,Normethadone,Possible,1,1
+Food::FOOD00854,Compound::DB00540,Nortriptyline,Possible,1,1
+Food::FOOD00256,Compound::DB09074,Olaparib,Positive,2,1
+Food::FOOD00256,Compound::DB00338,Omeprazole,Possible,1,1
+Food::FOOD00390,Compound::DB00338,Omeprazole,Possible,1,1
+Food::FOOD00085,Compound::DB00338,Omeprazole,Possible,1,1
+Food::FOOD00854,Compound::DB11130,Opium,Possible,1,1
+Food::FOOD00908,Compound::DB00816,Orciprenaline,Possible,1,1
+Food::FOOD00854,Compound::DB13026,Ornidazole,Harmful,4,1
+Food::FOOD00618,Compound::DB00198,Oseltamivir,Negative,3,1
+Food::FOOD00193,Compound::DB06635,Otamixaban,Possible,1,1
+Food::FOOD00008,Compound::DB06635,Otamixaban,Possible,1,1
+Food::FOOD00206,Compound::DB06635,Otamixaban,Possible,1,1
+Food::FOOD00548,Compound::DB00526,Oxaliplatin,Possible,1,1
+Food::FOOD00854,Compound::DB00842,Oxazepam,Possible,1,1
+Food::FOOD00854,Compound::DB00776,Oxcarbazepine,Possible,1,1
+Food::FOOD00854,Compound::DB01580,Oxprenolol,Possible,1,1
+Food::FOOD00908,Compound::DB01303,Oxtriphylline,Possible,1,1
+Food::FOOD00854,Compound::DB01062,Oxybutynin,Positive,2,1
+Food::FOOD00854,Compound::DB00497,Oxycodone,Positive,2,1
+Food::FOOD00256,Compound::DB00497,Oxycodone,Positive,2,1
+Food::FOOD00854,Compound::DB01192,Oxymorphone,Possible,1,1
+Food::FOOD00618,Compound::DB00595,Oxytetracycline,Possible,1,1
+Food::FOOD00291,Compound::DB01229,Paclitaxel,Possible,1,1
+Food::FOOD00021,Compound::DB01229,Paclitaxel,Possible,1,1
+Food::FOOD00115,Compound::DB01229,Paclitaxel,Possible,1,1
+Food::FOOD00079,Compound::DB01229,Paclitaxel,Possible,1,1
+Food::FOOD00061,Compound::DB01229,Paclitaxel,Possible,1,1
+Food::FOOD00206,Compound::DB01229,Paclitaxel,Possible,1,1
+Food::FOOD00256,Compound::DB01229,Paclitaxel,Positive,2,1
+Food::FOOD00376,Compound::DB01229,Paclitaxel,Harmful,4,1
+Food::FOOD00388,Compound::DB01229,Paclitaxel,Possible,1,1
+Food::FOOD00054,Compound::DB01229,Paclitaxel,Possible,1,1
+Food::FOOD00118,Compound::DB01229,Paclitaxel,Possible,1,1
+Food::FOOD00037,Compound::DB01229,Paclitaxel,Possible,1,1
+Food::FOOD00200,Compound::DB01229,Paclitaxel,Positive,2,1
+Food::FOOD00914,Compound::DB01229,Paclitaxel,Possible,1,1
+Food::FOOD00015,Compound::DB01229,Paclitaxel,Possible,1,1
+Food::FOOD00908,Compound::DB09073,Palbociclib,Possible,1,1
+Food::FOOD00256,Compound::DB09073,Palbociclib ,Positive,2,1
+Food::FOOD00854,Compound::DB01267,Paliperidone,Possible,1,1
+Food::FOOD00256,Compound::DB05467,Palovarotene,Positive,2,1
+Food::FOOD00023,Compound::DB06603,Panobinostat,Positive,2,1
+Food::FOOD00256,Compound::DB06603,Panobinostat,Positive,2,1
+Food::FOOD00151,Compound::DB06603,Panobinostat,Positive,2,1
+Food::FOOD00193,Compound::DB09260,Parnaparin,Possible,1,1
+Food::FOOD00008,Compound::DB09260,Parnaparin,Possible,1,1
+Food::FOOD00206,Compound::DB09260,Parnaparin,Possible,1,1
+Food::FOOD00256,Compound::DB06589,Pazopanib,Positive,2,1
+Food::FOOD00115,Compound::DB06589,Pazopanib,Harmful,4,1
+Food::FOOD00854,Compound::DB00059,Pegaspargase,Possible,1,1
+Food::FOOD00908,Compound::DB00022,Peginterferon Alfa-2B,Possible,1,1
+Food::FOOD00103,Compound::DB00642,Pemetrexed,Possible,1,1
+Food::FOOD00256,Compound::DB15102,Pemigatinib,Positive,2,1
+Food::FOOD00854,Compound::DB01230,Pemoline,Possible,1,1
+Food::FOOD00908,Compound::DB01230,Pemoline,Possible,1,1
+Food::FOOD00034,Compound::DB00859,Penicillamine,Possible,1,1
+Food::FOOD00687,Compound::DB00859,Penicillamine,Possible,1,1
+Food::FOOD00786,Compound::DB00859,Penicillamine,Possible,1,1
+Food::FOOD00548,Compound::DB00859,Penicillamine,Possible,1,1
+Food::FOOD00555,Compound::DB00859,Penicillamine,Possible,1,1
+Food::FOOD00854,Compound::DB00652,Pentazocine,Possible,1,1
+Food::FOOD00095,Compound::DB00312,Pentobarbital,Possible,1,1
+Food::FOOD00119,Compound::DB00312,Pentobarbital,Possible,1,1
+Food::FOOD00193,Compound::DB00686,Pentosan Polysulfate,Possible,1,1
+Food::FOOD00008,Compound::DB00686,Pentosan Polysulfate,Possible,1,1
+Food::FOOD00206,Compound::DB00686,Pentosan Polysulfate,Possible,1,1
+Food::FOOD00854,Compound::DB11186,Pentoxyverine,Possible,1,1
+Food::FOOD00854,Compound::DB08883,Perampanel,Possible,1,1
+Food::FOOD00854,Compound::DB01608,Periciazine,Possible,1,1
+Food::FOOD00428,Compound::DB00790,Perindopril,Possible,1,1
+Food::FOOD00040,Compound::DB00790,Perindopril,Possible,1,1
+Food::FOOD00079,Compound::DB00790,Perindopril,Possible,1,1
+Food::FOOD00498,Compound::DB00790,Perindopril,Possible,1,1
+Food::FOOD00854,Compound::DB00850,Perphenazine,Possible,1,1
+Food::FOOD00369,Compound::DB03783,Phenacetin,Positive,2,1
+Food::FOOD00388,Compound::DB03783,Phenacetin,Possible,1,1
+Food::FOOD00854,Compound::DB00780,Phenelzine,Possible,1,1
+Food::FOOD00208,Compound::DB00780,Phenelzine,Possible,1,1
+Food::FOOD00268,Compound::DB00780,Phenelzine,Possible,1,1
+Food::FOOD00617,Compound::DB00780,Phenelzine,Possible,1,1
+Food::FOOD00197,Compound::DB00780,Phenelzine,Possible,1,1
+Food::FOOD00908,Compound::DB00780,Phenelzine,Possible,1,1
+Food::FOOD00292,Compound::DB00780,Phenelzine,Possible,1,1
+Food::FOOD00424,Compound::DB00780,Phenelzine,Possible,1,1
+Food::FOOD00362,Compound::DB00780,Phenelzine,Possible,1,1
+Food::FOOD00911,Compound::DB00780,Phenelzine,Possible,1,1
+Food::FOOD00620,Compound::DB00780,Phenelzine,Possible,1,1
+Food::FOOD00854,Compound::DB01619,Phenindamine,Possible,1,1
+Food::FOOD00193,Compound::DB00498,Phenindione,Possible,1,1
+Food::FOOD00008,Compound::DB00498,Phenindione,Possible,1,1
+Food::FOOD00206,Compound::DB00498,Phenindione,Possible,1,1
+Food::FOOD00854,Compound::DB01174,Phenobarbital,Possible,1,1
+Food::FOOD00908,Compound::DB01174,Phenobarbital,Possible,1,1
+Food::FOOD00193,Compound::DB00946,Phenprocoumon,Possible,1,1
+Food::FOOD00908,Compound::DB00946,Phenprocoumon,Possible,1,1
+Food::FOOD00008,Compound::DB00946,Phenprocoumon,Possible,1,1
+Food::FOOD00206,Compound::DB00946,Phenprocoumon,Possible,1,1
+Food::FOOD00256,Compound::DB00946,Phenprocoumon,Possible,1,1
+Food::FOOD00626,Compound::DB00946,Phenprocoumon,Possible,1,1
+Food::FOOD00908,Compound::DB00191,Phentermine,Possible,1,1
+Food::FOOD00854,Compound::DB00812,Phenylbutazone,Possible,1,1
+Food::FOOD00388,Compound::DB00388,Phenylephrine,Possible,1,1
+Food::FOOD00908,Compound::DB00397,Phenylpropanolamine,Possible,1,1
+Food::FOOD00854,Compound::DB00252,Phenytoin,Positive,2,1
+Food::FOOD00547,Compound::DB00252,Phenytoin,Harmful,4,1
+Food::FOOD00186,Compound::DB00252,Phenytoin,Possible,1,1
+Food::FOOD00099,Compound::DB00252,Phenytoin,Possible,1,1
+Food::FOOD00626,Compound::DB00252,Phenytoin,Possible,1,1
+Food::FOOD00103,Compound::DB00252,Phenytoin,Negative,3,1
+Food::FOOD00854,Compound::DB09268,Picosulfuric Acid,Possible,1,1
+Food::FOOD00147,Compound::DB01085,Pilocarpine,Possible,1,1
+Food::FOOD00256,Compound::DB05316,Pimavanserin,Positive,2,1
+Food::FOOD00256,Compound::DB01100,Pimozide,Positive,2,1
+Food::FOOD00291,Compound::DB01132,Pioglitazone,Possible,1,1
+Food::FOOD00572,Compound::DB01132,Pioglitazone,Possible,1,1
+Food::FOOD00061,Compound::DB01132,Pioglitazone,Possible,1,1
+Food::FOOD00908,Compound::DB01132,Pioglitazone,Possible,1,1
+Food::FOOD00206,Compound::DB01132,Pioglitazone,Possible,1,1
+Food::FOOD00388,Compound::DB01132,Pioglitazone,Possible,1,1
+Food::FOOD00925,Compound::DB01132,Pioglitazone,Possible,1,1
+Food::FOOD00854,Compound::DB01621,Pipotiazine,Possible,1,1
+Food::FOOD00256,Compound::DB04951,Pirfenidone,Negative,3,1
+Food::FOOD00854,Compound::DB00554,Piroxicam,Possible,1,1
+Food::FOOD00256,Compound::DB08860,Pitavastatin,Possible,1,1
+Food::FOOD00854,Compound::DB09287,Polyethylene Glycol,Possible,1,1
+Food::FOOD00618,Compound::DB09287,Polyethylene Glycol,Possible,1,1
+Food::FOOD00854,Compound::DB01324,Polythiazide,Possible,1,1
+Food::FOOD00908,Compound::DB14500,Potassium,Possible,1,1
+Food::FOOD00079,Compound::DB11098,Potassium Bicarbonate,Positive,2,1
+Food::FOOD00498,Compound::DB11098,Potassium Bicarbonate,Positive,2,1
+Food::FOOD00854,Compound::DB01297,Practolol,Possible,1,1
+Food::FOOD00854,Compound::DB00413,Pramipexole,Positive,2,1
+Food::FOOD00854,Compound::DB01278,Pramlintide,Possible,1,1
+Food::FOOD00193,Compound::DB06209,Prasugrel,Positive,2,1
+Food::FOOD00008,Compound::DB06209,Prasugrel,Positive,2,1
+Food::FOOD00206,Compound::DB06209,Prasugrel,Positive,2,1
+Food::FOOD00256,Compound::DB06209,Prasugrel,Positive,2,1
+Food::FOOD00918,Compound::DB00175,Pravastatin,Positive,2,1
+Food::FOOD00056,Compound::DB00175,Pravastatin,Positive,2,1
+Food::FOOD00057,Compound::DB00175,Pravastatin,Positive,2,1
+Food::FOOD00854,Compound::DB01588,Prazepam,Possible,1,1
+Food::FOOD00908,Compound::DB01588,Prazepam,Possible,1,1
+Food::FOOD00256,Compound::DB01588,Prazepam,Possible,1,1
+Food::FOOD00256,Compound::DB01058,Praziquantel,Positive,2,1
+Food::FOOD00854,Compound::DB00457,Prazosin,Possible,1,1
+Food::FOOD00854,Compound::DB00860,Prednisolone,Possible,1,1
+Food::FOOD00854,Compound::DB15566,Prednisolone Acetate,Possible,1,1
+Food::FOOD00256,Compound::DB00635,Prednisone,Positive,2,1
+Food::FOOD00854,Compound::DB05154,Pretomanid,Possible,1,1
+Food::FOOD00854,Compound::DB00794,Primidone,Possible,1,1
+Food::FOOD00854,Compound::DB01032,Probenecid,Possible,1,1
+Food::FOOD00854,Compound::DB01035,Procainamide,Possible,1,1
+Food::FOOD00854,Compound::DB01168,Procarbazine,Possible,1,1
+Food::FOOD00854,Compound::DB00433,Prochlorperazine,Possible,1,1
+Food::FOOD00854,Compound::DB00420,Promazine,Possible,1,1
+Food::FOOD00256,Compound::DB01182,Propafenone,Positive,2,1
+Food::FOOD00854,Compound::DB00571,Propranolol,Positive,2,1
+Food::FOOD00121,Compound::DB00571,Propranolol,Possible,1,1
+Food::FOOD00193,Compound::DB11312,Protein C,Possible,1,1
+Food::FOOD00008,Compound::DB11312,Protein C,Possible,1,1
+Food::FOOD00206,Compound::DB11312,Protein C,Possible,1,1
+Food::FOOD00193,Compound::DB13149,Protein S Human,Possible,1,1
+Food::FOOD00008,Compound::DB13149,Protein S Human,Possible,1,1
+Food::FOOD00206,Compound::DB13149,Protein S Human,Possible,1,1
+Food::FOOD00043,Compound::DB00339,Pyrazinamide,Possible,1,1
+Food::FOOD00103,Compound::DB00205,Pyrimethamine,Possible,1,1
+Food::FOOD00854,Compound::DB01589,Quazepam,Possible,1,1
+Food::FOOD00256,Compound::DB01589,Quazepam,Positive,2,1
+Food::FOOD00291,Compound::DB01224,Quetiapine,Possible,1,1
+Food::FOOD00061,Compound::DB01224,Quetiapine,Possible,1,1
+Food::FOOD00206,Compound::DB01224,Quetiapine,Possible,1,1
+Food::FOOD00388,Compound::DB01224,Quetiapine,Possible,1,1
+Food::FOOD00854,Compound::DB09097,Quinagolide,Possible,1,1
+Food::FOOD00428,Compound::DB00881,Quinapril,Possible,1,1
+Food::FOOD00040,Compound::DB00881,Quinapril,Possible,1,1
+Food::FOOD00079,Compound::DB00881,Quinapril,Possible,1,1
+Food::FOOD00498,Compound::DB00881,Quinapril,Possible,1,1
+Food::FOOD00256,Compound::DB00908,Quinidine,Possible,1,1
+Food::FOOD00908,Compound::DB11124,Racepinephrine,Possible,1,1
+Food::FOOD00854,Compound::DB00481,Raloxifene,Possible,1,1
+Food::FOOD00908,Compound::DB00481,Raloxifene,Negative,3,1
+Food::FOOD00854,Compound::DB00980,Ramelteon,Positive,2,1
+Food::FOOD00079,Compound::DB00178,Ramipril,Possible,1,1
+Food::FOOD00498,Compound::DB00178,Ramipril,Possible,1,1
+Food::FOOD00291,Compound::DB00243,Ranolazine,Possible,1,1
+Food::FOOD00061,Compound::DB00243,Ranolazine,Possible,1,1
+Food::FOOD00206,Compound::DB00243,Ranolazine,Possible,1,1
+Food::FOOD00256,Compound::DB00243,Ranolazine,Positive,2,1
+Food::FOOD00388,Compound::DB00243,Ranolazine,Possible,1,1
+Food::FOOD00908,Compound::DB06213,Regadenoson,Possible,1,1
+Food::FOOD00256,Compound::DB08896,Regorafenib,Positive,2,1
+Food::FOOD00854,Compound::DB00899,Remifentanil,Possible,1,1
+Food::FOOD00256,Compound::DB00912,Repaglinide,Positive,2,1
+Food::FOOD00854,Compound::DB00206,Reserpine,Possible,1,1
+Food::FOOD00193,Compound::DB00015,Reteplase,Possible,1,1
+Food::FOOD00008,Compound::DB00015,Reteplase,Possible,1,1
+Food::FOOD00206,Compound::DB00015,Reteplase,Possible,1,1
+Food::FOOD00193,Compound::DB09259,Reviparin,Possible,1,1
+Food::FOOD00008,Compound::DB09259,Reviparin,Possible,1,1
+Food::FOOD00206,Compound::DB09259,Reviparin,Possible,1,1
+Food::FOOD00256,Compound::DB11730,Ribociclib,Positive,2,1
+Food::FOOD00854,Compound::DB01045,Rifampicin,Possible,1,1
+Food::FOOD00043,Compound::DB01045,Rifampicin,Possible,1,1
+Food::FOOD00171,Compound::DB01045,Rifampicin,Possible,1,1
+Food::FOOD00485,Compound::DB01045,Rifampicin,Possible,1,1
+Food::FOOD00119,Compound::DB01045,Rifampicin,Possible,1,1
+Food::FOOD00854,Compound::DB11738,Rilmenidine,Possible,1,1
+Food::FOOD00256,Compound::DB12457,Rimegepant,Positive,2,1
+Food::FOOD00059,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00193,Compound::DB06228,Rivaroxaban,Positive,2,1
+Food::FOOD00155,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00212,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00050,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00182,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00336,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00186,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00990,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00908,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00008,Compound::DB06228,Rivaroxaban,Positive,2,1
+Food::FOOD00206,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00256,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00108,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00053,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00189,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00056,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00106,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00022,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00139,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00159,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00200,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00170,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00918,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00085,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00914,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00178,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00091,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00145,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00068,Compound::DB06228,Rivaroxaban,Possible,1,1
+Food::FOOD00618,Compound::DB01301,Rolitetracycline,Negative,3,1
+Food::FOOD00256,Compound::DB06176,Romidepsin,Positive,2,1
+Food::FOOD00907,Compound::DB01098,Rosuvastatin,Possible,1,1
+Food::FOOD00073,Compound::DB01098,Rosuvastatin,Possible,1,1
+Food::FOOD00079,Compound::DB01098,Rosuvastatin,Possible,1,1
+Food::FOOD00908,Compound::DB01098,Rosuvastatin,Negative,3,1
+Food::FOOD00388,Compound::DB01098,Rosuvastatin,Possible,1,1
+Food::FOOD00139,Compound::DB01098,Rosuvastatin,Possible,1,1
+Food::FOOD00022,Compound::DB01098,Rosuvastatin,Possible,1,1
+Food::FOOD00200,Compound::DB01098,Rosuvastatin,Possible,1,1
+Food::FOOD00177,Compound::DB01098,Rosuvastatin,Possible,1,1
+Food::FOOD00052,Compound::DB01098,Rosuvastatin,Possible,1,1
+Food::FOOD00256,Compound::DB12332,Rucaparib,Positive,2,1
+Food::FOOD00256,Compound::DB11614,Rupatadine,Positive,2,1
+Food::FOOD00854,Compound::DB01399,Salsalate,Possible,1,1
+Food::FOOD00008,Compound::DB01232,Saquinavir,Negative,3,1
+Food::FOOD00256,Compound::DB01232,Saquinavir,Positive,2,1
+Food::FOOD00151,Compound::DB01232,Saquinavir,Possible,1,1
+Food::FOOD00148,Compound::DB00747,Scopolamine,Possible,1,1
+Food::FOOD00021,Compound::DB00747,Scopolamine,Possible,1,1
+Food::FOOD00256,Compound::DB00747,Scopolamine,Positive,2,1
+Food::FOOD00886,Compound::DB00747,Scopolamine,Possible,1,1
+Food::FOOD00128,Compound::DB00747,Scopolamine,Possible,1,1
+Food::FOOD00854,Compound::DB12834,Secnidazole,Possible,1,1
+Food::FOOD00854,Compound::DB00418,Secobarbital,Possible,1,1
+Food::FOOD00291,Compound::DB11362,Selexipag,Possible,1,1
+Food::FOOD00061,Compound::DB11362,Selexipag,Possible,1,1
+Food::FOOD00206,Compound::DB11362,Selexipag,Possible,1,1
+Food::FOOD00388,Compound::DB11362,Selexipag,Possible,1,1
+Food::FOOD00336,Compound::DB11689,Selumetinib,Possible,1,1
+Food::FOOD00908,Compound::DB11689,Selumetinib,Possible,1,1
+Food::FOOD00256,Compound::DB11689,Selumetinib,Positive,2,1
+Food::FOOD00200,Compound::DB11689,Selumetinib,Possible,1,1
+Food::FOOD00170,Compound::DB11689,Selumetinib,Possible,1,1
+Food::FOOD00914,Compound::DB11689,Selumetinib,Possible,1,1
+Food::FOOD00178,Compound::DB11689,Selumetinib,Possible,1,1
+Food::FOOD00091,Compound::DB11689,Selumetinib,Possible,1,1
+Food::FOOD00256,Compound::DB01104,Sertraline,Positive,2,1
+Food::FOOD00908,Compound::DB00203,Sildenafil,Possible,1,1
+Food::FOOD00256,Compound::DB00203,Sildenafil,Harmful,4,1
+Food::FOOD00151,Compound::DB00203,Sildenafil,Possible,1,1
+Food::FOOD00055,Compound::DB00203,Sildenafil,Negative,3,1
+Food::FOOD00077,Compound::DB00203,Sildenafil,Possible,1,1
+Food::FOOD00291,Compound::DB00641,Simvastatin,Possible,1,1
+Food::FOOD00256,Compound::DB00641,Simvastatin,Positive,2,1
+Food::FOOD00908,Compound::DB00641,Simvastatin,Harmful,4,1
+Food::FOOD00447,Compound::DB00641,Simvastatin,Negative,3,1
+Food::FOOD00723,Compound::DB00641,Simvastatin,Negative,3,1
+Food::FOOD00151,Compound::DB00641,Simvastatin,Positive,2,1
+Food::FOOD00085,Compound::DB00641,Simvastatin,Negative,3,1
+Food::FOOD00131,Compound::DB00877,Sirolimus,Harmful,4,1
+Food::FOOD00908,Compound::DB09153,Sodium Chloride,Possible,1,1
+Food::FOOD00105,Compound::DB13381,Sodium Feredetate,Positive,2,1
+Food::FOOD00027,Compound::DB13381,Sodium Feredetate,Positive,2,1
+Food::FOOD00216,Compound::DB13381,Sodium Feredetate,Positive,2,1
+Food::FOOD00204,Compound::DB13381,Sodium Feredetate,Positive,2,1
+Food::FOOD00908,Compound::DB13381,Sodium Feredetate,Negative,3,1
+Food::FOOD00369,Compound::DB13381,Sodium Feredetate,Positive,2,1
+Food::FOOD00004,Compound::DB13381,Sodium Feredetate,Positive,2,1
+Food::FOOD00054,Compound::DB13381,Sodium Feredetate,Positive,2,1
+Food::FOOD00053,Compound::DB13381,Sodium Feredetate,Positive,2,1
+Food::FOOD00618,Compound::DB13381,Sodium Feredetate,Possible,1,1
+Food::FOOD00543,Compound::DB13381,Sodium Feredetate,Positive,2,1
+Food::FOOD00548,Compound::DB13381,Sodium Feredetate,Positive,2,1
+Food::FOOD00083,Compound::DB13381,Sodium Feredetate,Positive,2,1
+Food::FOOD00618,Compound::DB09325,Sodium Fluoride,Possible,1,1
+Food::FOOD00854,Compound::DB09072,Sodium Oxybate,Possible,1,1
+Food::FOOD00256,Compound::DB09143,Sonidegib,Positive,2,1
+Food::FOOD00256,Compound::DB12548,Sparsentan,Positive,2,1
+Food::FOOD00428,Compound::DB01348,Spirapril,Possible,1,1
+Food::FOOD00040,Compound::DB01348,Spirapril,Possible,1,1
+Food::FOOD00079,Compound::DB01348,Spirapril,Possible,1,1
+Food::FOOD00498,Compound::DB01348,Spirapril,Possible,1,1
+Food::FOOD00079,Compound::DB00421,Spironolactone,Harmful,4,1
+Food::FOOD00498,Compound::DB00421,Spironolactone,Harmful,4,1
+Food::FOOD00854,Compound::DB09118,Stiripentol,Possible,1,1
+Food::FOOD00908,Compound::DB09118,Stiripentol,Possible,1,1
+Food::FOOD00618,Compound::DB09118,Stiripentol,Negative,3,1
+Food::FOOD00854,Compound::DB00708,Sufentanil,Possible,1,1
+Food::FOOD00256,Compound::DB00708,Sufentanil,Positive,2,1
+Food::FOOD00854,Compound::DB00605,Sulindac,Possible,1,1
+Food::FOOD00388,Compound::DB00605,Sulindac,Possible,1,1
+Food::FOOD00193,Compound::DB06271,Sulodexide,Possible,1,1
+Food::FOOD00008,Compound::DB06271,Sulodexide,Possible,1,1
+Food::FOOD00206,Compound::DB06271,Sulodexide,Possible,1,1
+Food::FOOD00854,Compound::DB00391,Sulpiride,Possible,1,1
+Food::FOOD00854,Compound::DB09034,Suvorexant,Possible,1,1
+Food::FOOD00256,Compound::DB09034,Suvorexant,Positive,2,1
+Food::FOOD00854,Compound::DB00864,Tacrolimus,Harmful,4,1
+Food::FOOD00256,Compound::DB00864,Tacrolimus,Harmful,4,1
+Food::FOOD00388,Compound::DB00864,Tacrolimus,Harmful,4,1
+Food::FOOD00151,Compound::DB00864,Tacrolimus,Possible,1,1
+Food::FOOD00068,Compound::DB00864,Tacrolimus,Harmful,4,1
+Food::FOOD00015,Compound::DB00864,Tacrolimus,Harmful,4,1
+Food::FOOD00854,Compound::DB00820,Tadalafil,Possible,1,1
+Food::FOOD00256,Compound::DB00820,Tadalafil,Positive,2,1
+Food::FOOD00144,Compound::DB11770,Talinolol,Possible,1,1
+Food::FOOD00256,Compound::DB11770,Talinolol,Negative,3,1
+Food::FOOD00388,Compound::DB11770,Talinolol,Negative,3,1
+Food::FOOD00914,Compound::DB11770,Talinolol,Possible,1,1
+Food::FOOD00291,Compound::DB00675,Tamoxifen,Possible,1,1
+Food::FOOD00079,Compound::DB00675,Tamoxifen,Possible,1,1
+Food::FOOD00061,Compound::DB00675,Tamoxifen,Possible,1,1
+Food::FOOD00101,Compound::DB00675,Tamoxifen,Possible,1,1
+Food::FOOD00206,Compound::DB00675,Tamoxifen,Possible,1,1
+Food::FOOD00963,Compound::DB00675,Tamoxifen,Possible,1,1
+Food::FOOD00388,Compound::DB00675,Tamoxifen,Possible,1,1
+Food::FOOD00170,Compound::DB00675,Tamoxifen,Possible,1,1
+Food::FOOD00854,Compound::DB06204,Tapentadol,Possible,1,1
+Food::FOOD00079,Compound::DB12887,Tazemetostat,Possible,1,1
+Food::FOOD00177,Compound::DB12887,Tazemetostat,Possible,1,1
+Food::FOOD00618,Compound::DB09397,Technetium Tc-99M Sulfur Colloid,Possible,1,1
+Food::FOOD00854,Compound::DB00231,Temazepam,Possible,1,1
+Food::FOOD00256,Compound::DB06287,Temsirolimus,Positive,2,1
+Food::FOOD00193,Compound::DB00031,Tenecteplase,Possible,1,1
+Food::FOOD00008,Compound::DB00031,Tenecteplase,Possible,1,1
+Food::FOOD00206,Compound::DB00031,Tenecteplase,Possible,1,1
+Food::FOOD00908,Compound::DB00857,Terbinafine,Possible,1,1
+Food::FOOD00256,Compound::DB00342,Terfenadine,Positive,2,1
+Food::FOOD00854,Compound::DB04844,Tetrabenazine,Possible,1,1
+Food::FOOD00618,Compound::DB00759,Tetracycline,Negative,3,1
+Food::FOOD00256,Compound::DB11712,Tezacaftor,Positive,2,1
+Food::FOOD00854,Compound::DB01041,Thalidomide,Possible,1,1
+Food::FOOD00854,Compound::DB00277,Theophylline,Possible,1,1
+Food::FOOD00040,Compound::DB00277,Theophylline,Harmful,4,1
+Food::FOOD00186,Compound::DB00277,Theophylline,Possible,1,1
+Food::FOOD00099,Compound::DB00277,Theophylline,Possible,1,1
+Food::FOOD00854,Compound::DB00372,Thiethylperazine,Possible,1,1
+Food::FOOD00854,Compound::DB00599,Thiopental,Possible,1,1
+Food::FOOD00854,Compound::DB01622,Thioproperazine,Possible,1,1
+Food::FOOD00854,Compound::DB00679,Thioridazine,Possible,1,1
+Food::FOOD00256,Compound::DB04572,Thiotepa,Positive,2,1
+Food::FOOD00854,Compound::DB01623,Thiothixene,Possible,1,1
+Food::FOOD00854,Compound::DB00906,Tiagabine,Possible,1,1
+Food::FOOD00256,Compound::DB09289,Tianeptine,Positive,2,1
+Food::FOOD00854,Compound::DB01600,Tiaprofenic Acid,Possible,1,1
+Food::FOOD00193,Compound::DB08816,Ticagrelor,Possible,1,1
+Food::FOOD00008,Compound::DB08816,Ticagrelor,Possible,1,1
+Food::FOOD00206,Compound::DB08816,Ticagrelor,Possible,1,1
+Food::FOOD00256,Compound::DB08816,Ticagrelor,Positive,2,1
+Food::FOOD00193,Compound::DB06822,Tinzaparin,Possible,1,1
+Food::FOOD00008,Compound::DB06822,Tinzaparin,Possible,1,1
+Food::FOOD00206,Compound::DB06822,Tinzaparin,Possible,1,1
+Food::FOOD00854,Compound::DB00697,Tizanidine,Possible,1,1
+Food::FOOD00854,Compound::DB00839,Tolazamide,Possible,1,1
+Food::FOOD00854,Compound::DB01124,Tolbutamide,Possible,1,1
+Food::FOOD00079,Compound::DB01124,Tolbutamide,Possible,1,1
+Food::FOOD00061,Compound::DB01124,Tolbutamide,Possible,1,1
+Food::FOOD00008,Compound::DB01124,Tolbutamide,Possible,1,1
+Food::FOOD00151,Compound::DB01124,Tolbutamide,Possible,1,1
+Food::FOOD00854,Compound::DB00500,Tolmetin,Possible,1,1
+Food::FOOD00854,Compound::DB06212,Tolvaptan,Possible,1,1
+Food::FOOD00256,Compound::DB06212,Tolvaptan,Positive,2,1
+Food::FOOD00256,Compound::DB00539,Toremifene,Positive,2,1
+Food::FOOD00854,Compound::DB05109,Trabectedin,Possible,1,1
+Food::FOOD00256,Compound::DB05109,Trabectedin,Positive,2,1
+Food::FOOD00428,Compound::DB00519,Trandolapril,Possible,1,1
+Food::FOOD00040,Compound::DB00519,Trandolapril,Possible,1,1
+Food::FOOD00079,Compound::DB00519,Trandolapril,Possible,1,1
+Food::FOOD00498,Compound::DB00519,Trandolapril,Possible,1,1
+Food::FOOD00854,Compound::DB00752,Tranylcypromine,Possible,1,1
+Food::FOOD00208,Compound::DB00752,Tranylcypromine,Possible,1,1
+Food::FOOD00268,Compound::DB00752,Tranylcypromine,Possible,1,1
+Food::FOOD00617,Compound::DB00752,Tranylcypromine,Possible,1,1
+Food::FOOD00687,Compound::DB00752,Tranylcypromine,Possible,1,1
+Food::FOOD00197,Compound::DB00752,Tranylcypromine,Possible,1,1
+Food::FOOD00911,Compound::DB00752,Tranylcypromine,Possible,1,1
+Food::FOOD00694,Compound::DB00752,Tranylcypromine,Possible,1,1
+Food::FOOD00696,Compound::DB00752,Tranylcypromine,Possible,1,1
+Food::FOOD00256,Compound::DB05773,Trastuzumab Emtansine,Positive,2,1
+Food::FOOD00854,Compound::DB00656,Trazodone,Possible,1,1
+Food::FOOD00193,Compound::DB00374,Treprostinil,Possible,1,1
+Food::FOOD00008,Compound::DB00374,Treprostinil,Possible,1,1
+Food::FOOD00206,Compound::DB00374,Treprostinil,Possible,1,1
+Food::FOOD00079,Compound::DB00384,Triamterene,Possible,1,1
+Food::FOOD00498,Compound::DB00384,Triamterene,Possible,1,1
+Food::FOOD00854,Compound::DB00897,Triazolam,Possible,1,1
+Food::FOOD00256,Compound::DB00897,Triazolam,Positive,2,1
+Food::FOOD00854,Compound::DB00831,Trifluoperazine,Possible,1,1
+Food::FOOD00193,Compound::DB08814,Triflusal,Possible,1,1
+Food::FOOD00008,Compound::DB08814,Triflusal,Possible,1,1
+Food::FOOD00206,Compound::DB08814,Triflusal,Possible,1,1
+Food::FOOD00854,Compound::DB00347,Trimethadione,Possible,1,1
+Food::FOOD00854,Compound::DB00662,Trimethobenzamide,Possible,1,1
+Food::FOOD00854,Compound::DB00726,Trimipramine,Possible,1,1
+Food::FOOD00245,Compound::DB04571,Trioxsalen,Possible,1,1
+Food::FOOD00215,Compound::DB04571,Trioxsalen,Possible,1,1
+Food::FOOD00081,Compound::DB04571,Trioxsalen,Possible,1,1
+Food::FOOD00053,Compound::DB04571,Trioxsalen,Possible,1,1
+Food::FOOD00475,Compound::DB04571,Trioxsalen,Possible,1,1
+Food::FOOD00027,Compound::DB04571,Trioxsalen,Possible,1,1
+Food::FOOD00131,Compound::DB04571,Trioxsalen,Possible,1,1
+Food::FOOD00129,Compound::DB04571,Trioxsalen,Possible,1,1
+Food::FOOD00854,Compound::DB00427,Triprolidine,Possible,1,1
+Food::FOOD00854,Compound::DB11699,Tropisetron,Possible,1,1
+Food::FOOD00291,Compound::DB11652,Tucatinib,Possible,1,1
+Food::FOOD00061,Compound::DB11652,Tucatinib,Possible,1,1
+Food::FOOD00206,Compound::DB11652,Tucatinib,Possible,1,1
+Food::FOOD00388,Compound::DB11652,Tucatinib,Possible,1,1
+Food::FOOD00256,Compound::DB15328,Ubrogepant,Positive,2,1
+Food::FOOD00256,Compound::DB15091,Upadacitinib,Positive,2,1
+Food::FOOD00193,Compound::DB00013,Urokinase,Possible,1,1
+Food::FOOD00008,Compound::DB00013,Urokinase,Possible,1,1
+Food::FOOD00206,Compound::DB00013,Urokinase,Possible,1,1
+Food::FOOD00854,Compound::DB00580,Valdecoxib,Possible,1,1
+Food::FOOD00854,Compound::DB00313,Valproic Acid,Possible,1,1
+Food::FOOD00618,Compound::DB00313,Valproic Acid,Possible,1,1
+Food::FOOD00085,Compound::DB00313,Valproic Acid,Possible,1,1
+Food::FOOD00291,Compound::DB00177,Valsartan,Possible,1,1
+Food::FOOD00061,Compound::DB00177,Valsartan,Possible,1,1
+Food::FOOD00206,Compound::DB00177,Valsartan,Possible,1,1
+Food::FOOD00388,Compound::DB00177,Valsartan,Possible,1,1
+Food::FOOD00854,Compound::DB01273,Varenicline,Possible,1,1
+Food::FOOD00908,Compound::DB08881,Vemurafenib,Possible,1,1
+Food::FOOD00256,Compound::DB08881,Vemurafenib,Positive,2,1
+Food::FOOD00256,Compound::DB11581,Venetoclax,Positive,2,1
+Food::FOOD00023,Compound::DB11581,Venetoclax,Positive,2,1
+Food::FOOD00215,Compound::DB00285,Venlafaxine,Harmful,4,1
+Food::FOOD00015,Compound::DB00285,Venlafaxine,Possible,1,1
+Food::FOOD00291,Compound::DB00661,Verapamil,Possible,1,1
+Food::FOOD00061,Compound::DB00661,Verapamil,Possible,1,1
+Food::FOOD00206,Compound::DB00661,Verapamil,Possible,1,1
+Food::FOOD00256,Compound::DB00661,Verapamil,Positive,2,1
+Food::FOOD00388,Compound::DB00661,Verapamil,Possible,1,1
+Food::FOOD00054,Compound::DB00661,Verapamil,Possible,1,1
+Food::FOOD00106,Compound::DB00661,Verapamil,Possible,1,1
+Food::FOOD00854,Compound::DB06684,Vilazodone,Possible,1,1
+Food::FOOD00193,Compound::DB06684,Vilazodone,Possible,1,1
+Food::FOOD00008,Compound::DB06684,Vilazodone,Possible,1,1
+Food::FOOD00206,Compound::DB06684,Vilazodone,Possible,1,1
+Food::FOOD00256,Compound::DB00541,Vincristine,Positive,2,1
+Food::FOOD00256,Compound::DB00309,Vindesine,Positive,2,1
+Food::FOOD00256,Compound::DB11641,Vinflunine,Positive,2,1
+Food::FOOD00256,Compound::DB00361,Vinorelbine,Positive,2,1
+Food::FOOD00256,Compound::DB11693,Voclosporin,Positive,2,1
+Food::FOOD00193,Compound::DB09030,Vorapaxar,Possible,1,1
+Food::FOOD00008,Compound::DB09030,Vorapaxar,Possible,1,1
+Food::FOOD00206,Compound::DB09030,Vorapaxar,Possible,1,1
+Food::FOOD00256,Compound::DB00582,Voriconazole,Possible,1,1
+Food::FOOD00291,Compound::DB09068,Vortioxetine,Possible,1,1
+Food::FOOD00061,Compound::DB09068,Vortioxetine,Possible,1,1
+Food::FOOD00206,Compound::DB09068,Vortioxetine,Possible,1,1
+Food::FOOD00388,Compound::DB09068,Vortioxetine,Possible,1,1
+Food::FOOD00015,Compound::DB09068,Vortioxetine,Possible,1,1
+Food::FOOD00291,Compound::DB00682,Warfarin,Possible,1,1
+Food::FOOD00130,Compound::DB00682,Warfarin,Possible,1,1
+Food::FOOD00208,Compound::DB00682,Warfarin,Harmful,4,1
+Food::FOOD00034,Compound::DB00682,Warfarin,Possible,1,1
+Food::FOOD00032,Compound::DB00682,Warfarin,Possible,1,1
+Food::FOOD00041,Compound::DB00682,Warfarin,Harmful,4,1
+Food::FOOD00336,Compound::DB00682,Warfarin,Harmful,4,1
+Food::FOOD00061,Compound::DB00682,Warfarin,Possible,1,1
+Food::FOOD00192,Compound::DB00682,Warfarin,Harmful,4,1
+Food::FOOD00217,Compound::DB00682,Warfarin,Harmful,4,1
+Food::FOOD00990,Compound::DB00682,Warfarin,Possible,1,1
+Food::FOOD00908,Compound::DB00682,Warfarin,Negative,3,1
+Food::FOOD00150,Compound::DB00682,Warfarin,Possible,1,1
+Food::FOOD00626,Compound::DB00682,Warfarin,Harmful,4,1
+Food::FOOD00509,Compound::DB00682,Warfarin,Possible,1,1
+Food::FOOD00388,Compound::DB00682,Warfarin,Possible,1,1
+Food::FOOD00555,Compound::DB00682,Warfarin,Harmful,4,1
+Food::FOOD00151,Compound::DB00682,Warfarin,Possible,1,1
+Food::FOOD00200,Compound::DB00682,Warfarin,Harmful,4,1
+Food::FOOD00170,Compound::DB00682,Warfarin,Harmful,4,1
+Food::FOOD00914,Compound::DB00682,Warfarin,Harmful,4,1
+Food::FOOD00178,Compound::DB00682,Warfarin,Harmful,4,1
+Food::FOOD00091,Compound::DB00682,Warfarin,Harmful,4,1
+Food::FOOD00068,Compound::DB00682,Warfarin,Possible,1,1
+Food::FOOD00193,Compound::DB04898,Ximelagatran,Possible,1,1
+Food::FOOD00008,Compound::DB04898,Ximelagatran,Possible,1,1
+Food::FOOD00206,Compound::DB04898,Ximelagatran,Possible,1,1
+Food::FOOD00854,Compound::DB00962,Zaleplon,Possible,1,1
+Food::FOOD00256,Compound::DB15035,Zanubrutinib,Positive,2,1
+Food::FOOD00854,Compound::DB06283,Ziconotide,Possible,1,1
+Food::FOOD00854,Compound::DB00744,Zileuton,Possible,1,1
+Food::FOOD00256,Compound::DB00744,Zileuton,Positive,2,1
+Food::FOOD00618,Compound::DB01593,Zinc,Possible,1,1
+Food::FOOD00618,Compound::DB14487,Zinc Acetate,Possible,1,1
+Food::FOOD00618,Compound::DB14485,Zinc Ascorbate,Possible,1,1
+Food::FOOD00618,Compound::DB11154,Zinc Citrate,Possible,1,1
+Food::FOOD00618,Compound::DB11248,Zinc Gluconate,Possible,1,1
+Food::FOOD00618,Compound::DB09321,Zinc Oxide,Possible,1,1
+Food::FOOD00854,Compound::DB00246,Ziprasidone,Possible,1,1
+Food::FOOD00854,Compound::DB00425,Zolpidem,Negative,3,1
+Food::FOOD00854,Compound::DB00909,Zonisamide,Possible,1,1
+Food::FOOD00256,Compound::DB01198,Zopiclone,Positive,2,1
+Food::FOOD00854,Compound::DB01624,Zuclopenthixol,Possible,1,1
