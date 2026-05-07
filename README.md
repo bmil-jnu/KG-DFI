@@ -28,7 +28,7 @@ conda activate KG-DFI
 - tqdm: 4.66.5
 
 ## Data & Model Weights
-Due to file size limitations, some files cannot be hosted on GitHub. Please download them manually from Google Drive. Data files must be placed under the `data/` folder, and model weight files must be placed under the `ckpt/` folder.
+Due to file size limitations, some files cannot be hosted on GitHub. Please download them manually from Google Drive.
 
 | File | Download Link | Destination |
 |---|---|---|
