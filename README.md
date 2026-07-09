@@ -164,5 +164,7 @@ If you use this code, please cite:
 
 ## Contact
 
-Mingi Kang, Sunyong Yoo — Department of Intelligent Electronics and Computer
-Engineering, Chonnam National University.
+If you have any questions or comments, please feel free to create an issue on github here, or email us:
+
+- kmg013858@gmail.com
+- syyoo@jnu.ac.kr
